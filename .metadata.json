@@ -1,8 +1,8 @@
 {
   "version": 1,
   "entries": {
-    "_YeomanYe-d-skills": {
-      "source": "https://github.com/YeomanYe/d-skills.git",
+    "_YeomanYe-skills": {
+      "source": "https://github.com/YeomanYe/skills.git",
       "tracked": true,
       "branch": "main"
     },
