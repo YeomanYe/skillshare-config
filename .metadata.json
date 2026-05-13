@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "entries": {
+    "_YeomanYe-d-skills": {
+      "source": "https://github.com/YeomanYe/d-skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_agent-browser-official": {
+      "source": "https://github.com/vercel-labs/agent-browser.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_core-web-vitals-official": {
+      "source": "https://github.com/addyosmani/web-quality-skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_find-skills-official": {
+      "source": "https://github.com/vercel-labs/skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_frontend-design-official": {
+      "source": "https://github.com/anthropics/skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_huashu-design-official": {
+      "source": "https://github.com/alchaincyf/huashu-design.git",
+      "tracked": true,
+      "branch": "master"
+    },
+    "_performance-official": {
+      "source": "https://github.com/addyosmani/web-quality-skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_skill-creator-official": {
+      "source": "https://github.com/anthropics/skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_skillshare-official": {
+      "source": "https://github.com/runkids/skillshare.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_ui-ux-pro-max-official": {
+      "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_vercel-react-best-practices-official": {
+      "source": "https://github.com/vercel-labs/agent-skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_web-design-guidelines-official": {
+      "source": "https://github.com/vercel-labs/agent-skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-core-web-vitals-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-interaction-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-loading-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-media-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_webperf-resources-official": {
+      "source": "https://github.com/nucliweb/webperf-snippets.git",
+      "tracked": true,
+      "branch": "main"
+    }
+  }
+}
