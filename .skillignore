@@ -14,11 +14,11 @@ _frontend-design-official/**
 !_frontend-design-official/skills/frontend-design/
 !_frontend-design-official/skills/frontend-design/**
 
-_ui-ux-pro-max-official/**
-!_ui-ux-pro-max-official/.claude/
-!_ui-ux-pro-max-official/.claude/skills/
-!_ui-ux-pro-max-official/.claude/skills/ui-ux-pro-max/
-!_ui-ux-pro-max-official/.claude/skills/ui-ux-pro-max/**
+_nextlevelbuilder-ui-ux-pro-max-skill/**
+!_nextlevelbuilder-ui-ux-pro-max-skill/.claude/
+!_nextlevelbuilder-ui-ux-pro-max-skill/.claude/skills/
+!_nextlevelbuilder-ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max/
+!_nextlevelbuilder-ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max/**
 
 _vercel-react-best-practices-official/**
 !_vercel-react-best-practices-official/skills/
