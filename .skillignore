@@ -24,3 +24,13 @@ _vercel-react-best-practices-official/**
 !_vercel-react-best-practices-official/skills/
 !_vercel-react-best-practices-official/skills/react-best-practices/
 !_vercel-react-best-practices-official/skills/react-best-practices/**
+
+_HKUDS-CLI-Anything/**
+!_HKUDS-CLI-Anything/skills/
+!_HKUDS-CLI-Anything/skills/cli-hub-meta-skill/
+!_HKUDS-CLI-Anything/skills/cli-hub-meta-skill/**
+
+_Leonxlnx-taste-skill/**
+!_Leonxlnx-taste-skill/skills/
+!_Leonxlnx-taste-skill/skills/taste-skill/
+!_Leonxlnx-taste-skill/skills/taste-skill/**

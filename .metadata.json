@@ -1,6 +1,16 @@
 {
   "version": 1,
   "entries": {
+    "_HKUDS-CLI-Anything": {
+      "source": "https://github.com/HKUDS/CLI-Anything.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_Leonxlnx-taste-skill": {
+      "source": "https://github.com/Leonxlnx/taste-skill.git",
+      "tracked": true,
+      "branch": "main"
+    },
     "_YeomanYe-skills": {
       "source": "https://github.com/YeomanYe/skills.git",
       "tracked": true,
@@ -51,11 +61,6 @@
       "tracked": true,
       "branch": "main"
     },
-    "_ui-ux-pro-max-official": {
-      "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
-      "tracked": true,
-      "branch": "main"
-    },
     "_vercel-react-best-practices-official": {
       "source": "https://github.com/vercel-labs/agent-skills.git",
       "tracked": true,
@@ -95,18 +100,6 @@
       "source": "https://github.com/nucliweb/webperf-snippets.git",
       "tracked": true,
       "branch": "main"
-    },
-    "taste-skill": {
-      "source": "github.com/Leonxlnx/taste-skill/skills/taste-skill",
-      "type": "github-subdir",
-      "installed_at": "2026-05-27T09:20:14.04772+08:00",
-      "repo_url": "https://github.com/Leonxlnx/taste-skill.git",
-      "subdir": "skills/taste-skill",
-      "version": "3c7017d",
-      "tree_hash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
-      "file_hashes": {
-        "SKILL.md": "sha256:aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
-      }
     }
   }
 }
