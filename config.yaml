@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/runkids/skillshare/main/schemas/config.schema.json
+source: /Users/ym/.config/skillshare/skills
+extras_source: /Users/ym/.config/skillshare/extras
+mode: merge
+targets:
+  claude:
+    skills:
+      path: /Users/ym/.claude/skills
+  agents:
+    skills:
+      path: /Users/ym/.agents/skills
+ignore:
+  - '**/.DS_Store'
+  - '**/.git/**'
+audit:
+  block_threshold: CRITICAL
