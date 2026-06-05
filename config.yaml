@@ -1,14 +1,74 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/runkids/skillshare/main/schemas/config.schema.json
-source: /Users/ym/.config/skillshare/skills
-extras_source: /Users/ym/.config/skillshare/extras
+source: ~/.config/skillshare/skills
+extras_source: ~/.config/skillshare/extras
 mode: merge
 targets:
   claude:
     skills:
-      path: /Users/ym/.claude/skills
-  agents:
+      path: ~/.claude/skills
+      include:
+        - _agent-browser-official__skills__agent-browser
+        - _find-skills-official__skills__find-skills
+        - _skill-creator-official__skills__skill-creator
+        - _obra-superpowers__skills__brainstorming
+        - _obra-superpowers__skills__dispatching-parallel-agents
+        - _obra-superpowers__skills__executing-plans
+        - _obra-superpowers__skills__finishing-a-development-branch
+        - _obra-superpowers__skills__receiving-code-review
+        - _obra-superpowers__skills__requesting-code-review
+        - _obra-superpowers__skills__subagent-driven-development
+        - _obra-superpowers__skills__systematic-debugging
+        - _obra-superpowers__skills__test-driven-development
+        - _obra-superpowers__skills__using-git-worktrees
+        - _obra-superpowers__skills__using-superpowers
+        - _obra-superpowers__skills__verification-before-completion
+        - _obra-superpowers__skills__writing-plans
+        - _obra-superpowers__skills__writing-skills
+        - _YeomanYe-skills__flow-dev-task
+        - _YeomanYe-skills__unblock-recipes
+        - _YeomanYe-skills__experience-summary
+        - _YeomanYe-skills__hat
+        - _YeomanYe-skills__flow-cron
+        - _YeomanYe-skills__flow-codex-goal
+        - _YeomanYe-skills__meta-skill
+        - _YeomanYe-skills__skill-behavior-test
+        - _YeomanYe-skills__skill-integration-test
+        - _YeomanYe-skills__sync-skills
+        - _YeomanYe-skills__flow-skill-dev
+        - _YeomanYe-skills__flow-skill-research
+  witsy:
     skills:
-      path: /Users/ym/.agents/skills
+      path: ~/.agents/skills
+      include:
+        - _agent-browser-official__skills__agent-browser
+        - _find-skills-official__skills__find-skills
+        - _skill-creator-official__skills__skill-creator
+        - _obra-superpowers__skills__brainstorming
+        - _obra-superpowers__skills__dispatching-parallel-agents
+        - _obra-superpowers__skills__executing-plans
+        - _obra-superpowers__skills__finishing-a-development-branch
+        - _obra-superpowers__skills__receiving-code-review
+        - _obra-superpowers__skills__requesting-code-review
+        - _obra-superpowers__skills__subagent-driven-development
+        - _obra-superpowers__skills__systematic-debugging
+        - _obra-superpowers__skills__test-driven-development
+        - _obra-superpowers__skills__using-git-worktrees
+        - _obra-superpowers__skills__using-superpowers
+        - _obra-superpowers__skills__verification-before-completion
+        - _obra-superpowers__skills__writing-plans
+        - _obra-superpowers__skills__writing-skills
+        - _YeomanYe-skills__flow-dev-task
+        - _YeomanYe-skills__unblock-recipes
+        - _YeomanYe-skills__experience-summary
+        - _YeomanYe-skills__hat
+        - _YeomanYe-skills__flow-cron
+        - _YeomanYe-skills__flow-codex-goal
+        - _YeomanYe-skills__meta-skill
+        - _YeomanYe-skills__skill-behavior-test
+        - _YeomanYe-skills__skill-integration-test
+        - _YeomanYe-skills__sync-skills
+        - _YeomanYe-skills__flow-skill-dev
+        - _YeomanYe-skills__flow-skill-research
 ignore:
   - '**/.DS_Store'
   - '**/.git/**'

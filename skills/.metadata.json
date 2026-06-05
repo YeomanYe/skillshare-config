@@ -41,6 +41,11 @@
       "tracked": true,
       "branch": "master"
     },
+    "_nextlevelbuilder-ui-ux-pro-max-skill": {
+      "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "tracked": true,
+      "branch": "main"
+    },
     "_obra-superpowers": {
       "source": "https://github.com/obra/superpowers.git",
       "tracked": true,

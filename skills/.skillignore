@@ -1,4 +1,7 @@
 _skill-creator-official/**
+!_skill-creator-official/skills/
+!_skill-creator-official/skills/skill-creator/
+!_skill-creator-official/skills/skill-creator/**
 _performance-official/**
 _web-design-guidelines-official/**
 _webperf-core-web-vitals-official/**
