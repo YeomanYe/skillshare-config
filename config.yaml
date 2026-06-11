@@ -8,13 +8,14 @@ targets:
       path: ~/.claude/skills
       include:
         - _agent-browser-official__skills__agent-browser
-        - _find-skills-official__skills__find-skills
-        - _skill-creator-official__skills__skill-creator
+        - find-skills
+        - skill-creator
         - pdf
         - playwriter
         - deno-expert
         - deno-frontend
         - developing-preact
+        - react-best-practices
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans
@@ -46,13 +47,14 @@ targets:
       path: ~/.agents/skills
       include:
         - _agent-browser-official__skills__agent-browser
-        - _find-skills-official__skills__find-skills
-        - _skill-creator-official__skills__skill-creator
+        - find-skills
+        - skill-creator
         - pdf
         - playwriter
         - deno-expert
         - deno-frontend
         - developing-preact
+        - react-best-practices
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans

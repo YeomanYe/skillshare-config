@@ -1,16 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "_HKUDS-CLI-Anything": {
-      "source": "https://github.com/HKUDS/CLI-Anything.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_Leonxlnx-taste-skill": {
-      "source": "https://github.com/Leonxlnx/taste-skill.git",
-      "tracked": true,
-      "branch": "main"
-    },
     "_YeomanYe-skills": {
       "source": "https://github.com/YeomanYe/skills.git",
       "tracked": true,
@@ -21,30 +11,15 @@
       "tracked": true,
       "branch": "main"
     },
-    "_alchaincyf-darwin-skill": {
-      "source": "https://github.com/alchaincyf/darwin-skill.git",
-      "tracked": true,
-      "branch": "master"
-    },
     "_core-web-vitals-official": {
       "source": "https://github.com/addyosmani/web-quality-skills.git",
       "tracked": true,
       "branch": "main"
     },
-    "_find-skills-official": {
-      "source": "https://github.com/vercel-labs/skills.git",
+    "_flutter-official": {
+      "source": "https://github.com/flutter/skills.git",
       "tracked": true,
       "branch": "main"
-    },
-    "_frontend-design-official": {
-      "source": "https://github.com/anthropics/skills.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_huashu-design-official": {
-      "source": "https://github.com/alchaincyf/huashu-design.git",
-      "tracked": true,
-      "branch": "master"
     },
     "_nextlevelbuilder-ui-ux-pro-max-skill": {
       "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
@@ -56,65 +31,27 @@
       "tracked": true,
       "branch": "main"
     },
-    "_performance-official": {
-      "source": "https://github.com/addyosmani/web-quality-skills.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_skill-creator-official": {
-      "source": "https://github.com/anthropics/skills.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_skillshare-official": {
-      "source": "https://github.com/runkids/skillshare.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_vercel-react-best-practices-official": {
-      "source": "https://github.com/vercel-labs/agent-skills.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_web-design-guidelines-official": {
-      "source": "https://github.com/vercel-labs/agent-skills.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_webperf-core-web-vitals-official": {
-      "source": "https://github.com/nucliweb/webperf-snippets.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_webperf-interaction-official": {
-      "source": "https://github.com/nucliweb/webperf-snippets.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_webperf-loading-official": {
-      "source": "https://github.com/nucliweb/webperf-snippets.git",
-      "tracked": true,
-      "branch": "main"
-    },
-    "_webperf-media-official": {
-      "source": "https://github.com/nucliweb/webperf-snippets.git",
-      "tracked": true,
-      "branch": "main"
-    },
     "_webperf-official": {
       "source": "https://github.com/nucliweb/webperf-snippets.git",
       "tracked": true,
       "branch": "main"
     },
-    "_webperf-resources-official": {
-      "source": "https://github.com/nucliweb/webperf-snippets.git",
-      "tracked": true,
-      "branch": "main"
+    "cli-hub-meta-skill": {
+      "source": "https://github.com/HKUDS/CLI-Anything.git/skills/cli-hub-meta-skill",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:37.109618+08:00",
+      "repo_url": "https://github.com/HKUDS/CLI-Anything.git",
+      "subdir": "skills/cli-hub-meta-skill",
+      "version": "48f0449",
+      "tree_hash": "d54fad792d7da94c716b16ad850b75a2ec15cecf",
+      "file_hashes": {
+        "SKILL.md": "sha256:29a7b6249173214bf24fe0eebbad544315ae1b3d324f5218b143b7783f5f8f7a"
+      }
     },
     "dart-best-practices": {
       "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-best-practices",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:25.257743+08:00",
+      "installed_at": "2026-06-11T19:45:38.637462+08:00",
       "repo_url": "https://github.com/kevmoo/dash_skills.git",
       "subdir": "skills/dart-best-practices",
       "version": "093f03a",
@@ -126,7 +63,7 @@
     "dart-modern-features": {
       "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-modern-features",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:25.171914+08:00",
+      "installed_at": "2026-06-11T19:45:38.590335+08:00",
       "repo_url": "https://github.com/kevmoo/dash_skills.git",
       "subdir": "skills/dart-modern-features",
       "version": "093f03a",
@@ -135,10 +72,55 @@
         "SKILL.md": "sha256:f0e1965b216c81e29ae4644b8cb9bd0459bf6942070acbaac7a281258c090b78"
       }
     },
+    "darwin-skill": {
+      "source": "github.com/alchaincyf/darwin-skill",
+      "type": "github",
+      "installed_at": "2026-06-11T19:35:53.390176+08:00",
+      "repo_url": "https://github.com/alchaincyf/darwin-skill.git",
+      "version": "12684eb",
+      "file_hashes": {
+        "README.md": "sha256:551cd57bf051eca1236c8b8604774ee52c145c16610cfafe6d25685a491fe5db",
+        "README_EN.md": "sha256:30ce5a87986ef3a5572bc6fbb118b5f4e7523f2cfebfa0e58fc3fab2d8729c9b",
+        "SKILL.md": "sha256:c3220018f42a3d4cfb242c449df47fd72907670b52d5f00a59179065837044a8",
+        "assets/aso-hero.png": "sha256:e506a09d52f855dde09cd8a8b8152786e327cb9df4896a1cffaeae56d1022794",
+        "assets/banner-check.png": "sha256:6c881a22a15615c405e8237aba513452c1c355edf910ee29577be5a2ea6cf1e4",
+        "assets/banner-en-check.png": "sha256:27768ccc746fa65204c3a9aacf90eafa5492d2b7c381111438c182083846faff",
+        "assets/banner-en.svg": "sha256:5870f7abfdf1ed3cce969e3df3a3e665cbfd99e9eb984a4e30c5cd145f929ed5",
+        "assets/banner.svg": "sha256:036e8d67c287297b116b1dc7413492cf8b53317700ce632bd087a78232a68fc5",
+        "assets/chart-loop-en.html": "sha256:f725e6900f6593d7f61c8aa5baf51de555158ba793e248c952a20dbdc3e8a55a",
+        "assets/chart-loop-en.png": "sha256:d03b087b3a759056c5f373dc32b40468b91eff212b7def8eea2944d48a193fa9",
+        "assets/chart-loop.html": "sha256:8df5191441ca681cb2872acd19c899aa45ec8d2ff55a2485b99d40f13b4b0721",
+        "assets/chart-loop.png": "sha256:6757c2cc3e5ac90a2b144d2f9aa9fe387f1f4af85a5151f82acc7ae68233fcda",
+        "assets/chart-phases-en.html": "sha256:b53e36e6068f2b9f4ca0cec53b4d592aaf1f5903567f5d6f14f8d7b37c48d267",
+        "assets/chart-phases-en.png": "sha256:ab29b7774cc5b61ae8142cb99a627bfd4cd53ad81ab90c36f00d0155866c3c91",
+        "assets/chart-phases.html": "sha256:26dab889bbbe3cbbf223057bb69b1c3c8596dd54dc27b544a25786cb71fa057c",
+        "assets/chart-phases.png": "sha256:482f65c0ed482710ac0f39be55df95cb3a6fefa9ed491ccfdeebdc8382f47f42",
+        "assets/chart-ratchet-en.html": "sha256:4db6b06a99784d649c262b15cc44455c0ddb6cfcf419302f9e256c3f71ba9ac8",
+        "assets/chart-ratchet-en.png": "sha256:373e0ff38ceebcad435421816cc521ffe48da7f2de2224a3dc504124118e325d",
+        "assets/chart-ratchet.html": "sha256:383afd3ad5f8fe5377a56f2b11d13c0b3945e187a17c9e43158985f569309ded",
+        "assets/chart-ratchet.png": "sha256:f006428fd86685a25eb01b183d3aaee455b9e10ca34f9fe0dece149405e78d7e",
+        "assets/chart-rubric-en.html": "sha256:f725814c2f4639b164879fab1b763d67b8e26760234ae60b41a095b35b3a57b2",
+        "assets/chart-rubric-en.png": "sha256:1da21441a79b0ddb413b068e32d4409246dfd893fa90e51bba5b4637c87402ed",
+        "assets/chart-rubric.html": "sha256:8f141b7f9ad2fe113b90e056d6599cc1bde60114f472bacdc23ca21108ff58e8",
+        "assets/chart-rubric.png": "sha256:0ecc92d9d2d9cca171f0dce0ac8703cb79b33bcc51c7fb6538a0f09a22010223",
+        "assets/hero.gif": "sha256:8d46c024708f35050aa57aa9f3c1f96b9081b8e87afd996cdaa3334ab95625cb",
+        "assets/result-card-example.png": "sha256:841d9c30602f0de5a165918efddd9aa01a7f7bcb3902d8cb95b3e37a1f22b2f9",
+        "docs/index.html": "sha256:34a0e59388fb3ad578261edf1b760ea745712381f4d612b4dbc743700266e7d5",
+        "references/runtime-neutrality.md": "sha256:98fb24f72bf00dd5faf7e5cad833d9f568758846fdfa71fac342dc4acdcc3492",
+        "references/skilllens-evidence.md": "sha256:f2ce34bf57e123bccc723b880753384002b80abeae43609d4927367f0e6ab76d",
+        "scripts/screenshot.mjs": "sha256:982330d07bed050f6e9838017d7ee704dfd1fe252a69a60cb3db10779baa55a5",
+        "showcase.html": "sha256:34a0e59388fb3ad578261edf1b760ea745712381f4d612b4dbc743700266e7d5",
+        "templates/result-card-dark.html": "sha256:1113b187e2a315bfa1bac0c5e33d7cd07f178543387d513384a11b6cc994ad6b",
+        "templates/result-card-white.html": "sha256:3150923c0bd8c602951f05c6b40653b73bda5b08772b1296d8d6eb84617c6ffc",
+        "templates/result-card.html": "sha256:48543692d778fb010166f79c7a687ee2572bee6540062f50e1341b95a4cabfcd",
+        "templates/result-card.png": "sha256:841d9c30602f0de5a165918efddd9aa01a7f7bcb3902d8cb95b3e37a1f22b2f9",
+        "test-prompts.json": "sha256:8a9d8f20247efcdb0351677508df55839c8cd6ca665aea34df172cbcf8834c64"
+      }
+    },
     "deno-expert": {
       "source": "https://github.com/denoland/skills.git/skills/deno-expert",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:26.602315+08:00",
+      "installed_at": "2026-06-11T19:45:42.216467+08:00",
       "repo_url": "https://github.com/denoland/skills.git",
       "subdir": "skills/deno-expert",
       "version": "1a4267f",
@@ -150,7 +132,7 @@
     "deno-frontend": {
       "source": "https://github.com/denoland/skills.git/skills/deno-frontend",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:26.512962+08:00",
+      "installed_at": "2026-06-11T19:45:42.266867+08:00",
       "repo_url": "https://github.com/denoland/skills.git",
       "subdir": "skills/deno-frontend",
       "version": "1a4267f",
@@ -178,10 +160,22 @@
         "scripts/vendor.sh": "sha256:e27b9e2c25b1de58108991f4d02a2447bccbfc0fbb21895c9406ea6b4744bb45"
       }
     },
+    "find-skills": {
+      "source": "https://github.com/vercel-labs/skills.git/skills/find-skills",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:08.450628+08:00",
+      "repo_url": "https://github.com/vercel-labs/skills.git",
+      "subdir": "skills/find-skills",
+      "version": "be0dd25",
+      "tree_hash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "file_hashes": {
+        "SKILL.md": "sha256:1e85f6f9686e145aca4a124e3b704b9bbea9aa87e08515c1e352eee70f6e6e7a"
+      }
+    },
     "flame-game-dev": {
       "source": "https://github.com/miles990/claude-software-skills.git/domain-applications/game-development/flame",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:30.082178+08:00",
+      "installed_at": "2026-06-11T19:45:09.999008+08:00",
       "repo_url": "https://github.com/miles990/claude-software-skills.git",
       "subdir": "domain-applications/game-development/flame",
       "version": "73632f2",
@@ -202,130 +196,207 @@
         "SKILL.md": "sha256:596787581979d7bd719a48abcd9d04ee7ffaf7d0dbc4c6f255de8cf10b215919"
       }
     },
-    "flutter-add-integration-test": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-add-integration-test",
+    "frontend-design": {
+      "source": "https://github.com/anthropics/skills.git/skills/frontend-design",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.259895+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-add-integration-test",
-      "version": "70e2b6b",
-      "tree_hash": "2662e110e1aa719a30b58536fce6fca7793fe690",
+      "installed_at": "2026-06-11T19:45:47.618342+08:00",
+      "repo_url": "https://github.com/anthropics/skills.git",
+      "subdir": "skills/frontend-design",
+      "version": "5754626",
+      "tree_hash": "0d5b74a14bdf3ebcd64f352d06376a2ef05ed296",
       "file_hashes": {
-        "SKILL.md": "sha256:8d81b053c5fdf5b61aa7d0165cbc35e7a9a1c5bdcd7a301b8293a108771e6bab"
+        "LICENSE.txt": "sha256:0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+        "SKILL.md": "sha256:1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd"
       }
     },
-    "flutter-add-widget-preview": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-add-widget-preview",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.345838+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-add-widget-preview",
-      "version": "70e2b6b",
-      "tree_hash": "ef0192a0d08c593fb0385a9aa5c8836eee8ccb44",
+    "huashu-design": {
+      "source": "github.com/alchaincyf/huashu-design",
+      "type": "github",
+      "installed_at": "2026-06-11T19:36:06.342988+08:00",
+      "repo_url": "https://github.com/alchaincyf/huashu-design.git",
+      "version": "55ff7cc",
       "file_hashes": {
-        "SKILL.md": "sha256:88cfeb7084e798714f5ac59cff62e5441759bcbe096c0fdc37abd21111b20212"
-      }
-    },
-    "flutter-add-widget-test": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-add-widget-test",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.457516+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-add-widget-test",
-      "version": "70e2b6b",
-      "tree_hash": "8b4202131bb2f3e47c7a512f6fe401ea2fc40046",
-      "file_hashes": {
-        "SKILL.md": "sha256:6c449ebd844e331e661b12630b6ad2a218e84d1bd8ea8377ba9dbd62ffe2798a"
-      }
-    },
-    "flutter-apply-architecture-best-practices": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-apply-architecture-best-practices",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.546067+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-apply-architecture-best-practices",
-      "version": "70e2b6b",
-      "tree_hash": "d5a184eff2ce5a111d4f290efd2ba5511b8a6d69",
-      "file_hashes": {
-        "SKILL.md": "sha256:00497869976a903c83f509a59d4b6a501d409fa711eb8e1f89945921e1983b65"
-      }
-    },
-    "flutter-build-responsive-layout": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-build-responsive-layout",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.904452+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-build-responsive-layout",
-      "version": "70e2b6b",
-      "tree_hash": "018c3c52c14b46fe242ef0b1336a7b07d5d860be",
-      "file_hashes": {
-        "SKILL.md": "sha256:c7a5d18071c625137cad2def9b13f3579d9bdf0aae29621a1825f12b560394c0"
-      }
-    },
-    "flutter-fix-layout-issues": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-fix-layout-issues",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.634128+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-fix-layout-issues",
-      "version": "70e2b6b",
-      "tree_hash": "2227ad7b018a7b381a701aedabe74555667add58",
-      "file_hashes": {
-        "SKILL.md": "sha256:e82c82b4245ef502bd93bc543d4f5968f4ee8043fa7556ffebcb34f30651fc9b"
-      }
-    },
-    "flutter-implement-json-serialization": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-implement-json-serialization",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.723491+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-implement-json-serialization",
-      "version": "70e2b6b",
-      "tree_hash": "8c117bee0dd986449f4d636b86221a7f9485a222",
-      "file_hashes": {
-        "SKILL.md": "sha256:05a4478e0a3d119f26ae6e6983da3d5c2ea134763aeff59a06cef346bef391b1"
-      }
-    },
-    "flutter-setup-declarative-routing": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-setup-declarative-routing",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.994574+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-setup-declarative-routing",
-      "version": "70e2b6b",
-      "tree_hash": "15765e83c9051b4b9f79612f43b273018d8923ef",
-      "file_hashes": {
-        "SKILL.md": "sha256:3a52fc5663cf37d68b6e096ef3e59f5056a01e9151b64cdf0728672a13398953"
-      }
-    },
-    "flutter-setup-localization": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-setup-localization",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:33.816693+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-setup-localization",
-      "version": "70e2b6b",
-      "tree_hash": "9f0dbd0422cd764fa4374005a2eb2c94082a6de2",
-      "file_hashes": {
-        "SKILL.md": "sha256:dda4ef8b74976a3e51faa43d7ad00f03eab64d6d5ed0ef89cf4184a04196da17"
-      }
-    },
-    "flutter-use-http-package": {
-      "source": "https://github.com/flutter/skills.git/skills/flutter-use-http-package",
-      "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:34.085495+08:00",
-      "repo_url": "https://github.com/flutter/skills.git",
-      "subdir": "skills/flutter-use-http-package",
-      "version": "70e2b6b",
-      "tree_hash": "e6e4937fe8d16fc8fb37921ac00f669124731752",
-      "file_hashes": {
-        "SKILL.md": "sha256:439fec047f07e9ec7cd387bf506801bb11b2b9037e5d2c5c03602360532980c4"
+        ".env.example": "sha256:5aee74d6cbd16f727e5fcd82927b8428c51474920a2d5aa16f3590dbabadea62",
+        ".gitignore": "sha256:f419f5223359e2a2a49162fd0813cb4d3179cc1057f0a0159067f23c9ad300c1",
+        "LICENSE": "sha256:6d6a2a9caf2e6d2b76974050427053b2892d8aa4c33fd168ce63a537fcee9d96",
+        "README.en.md": "sha256:6b3348ebbbe01bd6e3494a2acff0aa40c258f061b201dae25883be49394d380d",
+        "README.md": "sha256:25c2e14b32fc1e31062dd40f9233636536f652ce317f8ccea29bfc5bcb9f0931",
+        "SKILL.md": "sha256:3a00e43cddad0eb4105a750d5aa99a8b4e1384c3fc34807fe05678de332897e6",
+        "assets/android_frame.jsx": "sha256:8c1c951518e5f0d39c07212d0bb9e8f1b5363b4ad4d1f903dca26d6a485e08bf",
+        "assets/animations.jsx": "sha256:5cbb50b6d0c78af36678d13e47df363aec6c6e7d011131f503c1f99d45158b9d",
+        "assets/banner.svg": "sha256:d8660a8e0cd300a773b21308b651ffdd4258ecdc723505724216e47425016b05",
+        "assets/bgm-ad.mp3": "sha256:538e4dbf911afd6c6502e8ea008e994f2f6c5219cd498dbda4053f02f0b7dd95",
+        "assets/bgm-educational-alt.mp3": "sha256:e100757b60afa69ffd6200012dcaba3d7c2c55e8f543cc25c1765ce59e795f46",
+        "assets/bgm-educational.mp3": "sha256:f4d7fa4d6f612c92bbac39706757b331a333dc5ca125aff5f8d3c36b5903ebd3",
+        "assets/bgm-tech.mp3": "sha256:37f55c71ef0aea6312efb8c735ecbf028b06219b42cc265bddc482d7b4adc2e9",
+        "assets/bgm-tutorial-alt.mp3": "sha256:ead7cefd527b3fee1ef4c83c82b284690717c89b6aeb4ece4b91603059a7bd3c",
+        "assets/bgm-tutorial.mp3": "sha256:2a49275922e2e197109d5c9969e6832e09f4c140da1edde22aa508fcddb9a46b",
+        "assets/browser_window.jsx": "sha256:59e412322a5ca34d68716978b4e1147efc95ba65f6fd4d4a99abcc96909f7d55",
+        "assets/deck_index.html": "sha256:55e3b20091ae34dc0dc8e6f4a7023c7f472e1239432d3bc7e8eab0683ba31895",
+        "assets/deck_stage.js": "sha256:a7a2af14c2f8001d2c7e2590dacbf8110b38b37da7b82cbce12382286e8ed6cf",
+        "assets/design_canvas.jsx": "sha256:5376c8ebdc59ec8b969161cb815d9455ccd233e6d6baa0d49f8af337883ed3d6",
+        "assets/director-notes-samples/launch-film-30s-sample.md": "sha256:92929cba00fee525a70cbe3cd3f6e7b4d2ca7afb9a91a707721cfce9b34b92cd",
+        "assets/ios_frame.jsx": "sha256:e19b4dd028aed54f8c20cea8b070c349e89f2ebcb9ff6b29fd37a9b2381789bd",
+        "assets/macos_window.jsx": "sha256:ebe16aea22d9421dc64b649c4c6f985545abf976fdcd525f16dc010235c87b96",
+        "assets/narration_stage.jsx": "sha256:2476eec614917bfb3c04c8dca9cd27a72f281590f3eeba3b16b5859b544f1a0e",
+        "assets/personal-asset-index.example.json": "sha256:b35ca20aa41f6a52ad7248969a25eadaf607d3379f79fd1f4cb841fca423886c",
+        "assets/sfx/container/card-flip.mp3": "sha256:346cc1953650959216780ba6e167ce5819f9cf87fa6e01c170249f2f941d5b59",
+        "assets/sfx/container/card-snap.mp3": "sha256:0870f1b9c0e1d7457f12a9204d627b8e1755b449d6299022edc304f3feb60b7b",
+        "assets/sfx/container/modal-open.mp3": "sha256:5a493c07db344478e1c69821bacabdc9fe3ed1e9743afc2c7c4a1ead328f7cdd",
+        "assets/sfx/container/stack-collapse.mp3": "sha256:69f5f5764251c5e08c2700561caf5df668aead8d411375e13a6a072b631692df",
+        "assets/sfx/feedback/achievement.mp3": "sha256:b8fb9d8806d6bde21c8a2a9d78f751fa79ddfb82fe09a5e5c49e069c14cdc754",
+        "assets/sfx/feedback/error-tone.mp3": "sha256:a85727f1afe67c948e5246e17ebfb5c144db9d5ccb414e4fa1011563230541c6",
+        "assets/sfx/feedback/notification-pop.mp3": "sha256:e455a187df06e7e0b9b51d1722ddcf225abaa704cb0d0b7fd2d56eb7d0b3ace5",
+        "assets/sfx/feedback/success-chime.mp3": "sha256:95a1aa98d046f08d412e59d50ea00d955f486964ea4368537e2754eb2313502c",
+        "assets/sfx/impact/brand-stamp.mp3": "sha256:2fd4d6fe3df413d6c19dbd3da93f39df93b30c31eb106dc000a36f7dc6737ab7",
+        "assets/sfx/impact/drop-thud.mp3": "sha256:57ba7f12272a258e02280ec6839c00980ebe6b7e800080c899c9c03787bffc40",
+        "assets/sfx/impact/logo-reveal-v2.mp3": "sha256:7fe974ee3267ff30071dfa03722da448600e4834d79a5451377b187ecf88241b",
+        "assets/sfx/impact/logo-reveal.mp3": "sha256:7fe974ee3267ff30071dfa03722da448600e4834d79a5451377b187ecf88241b",
+        "assets/sfx/keyboard/delete-key.mp3": "sha256:a554ca3a23535ea62da265b35ec9542299aafaa1c0334adf432b02b40a67e0da",
+        "assets/sfx/keyboard/enter.mp3": "sha256:f97e86cfb43f04900e43c771dee38f777e48ddd86a00389e3dd1e4d98c7f496b",
+        "assets/sfx/keyboard/space-tap.mp3": "sha256:b138014934488629241fb7132e99ea850c34b1865d712bc3c67de5962e6fc411",
+        "assets/sfx/keyboard/type-fast.mp3": "sha256:bc2dcab144e81b08f4b6e1a0d482f2497d2da4d9975d6e354e8396c02ae9cc8d",
+        "assets/sfx/keyboard/type.mp3": "sha256:5a5850c157fd7b7ab54c722399a3e1c3d3214667bdb68ba40003aa036adcb879",
+        "assets/sfx/magic/ai-process.mp3": "sha256:600d06dcaa8eeb18226bbd37bb354c8ea323debc5d9edc021137533f29847901",
+        "assets/sfx/magic/sparkle.mp3": "sha256:e2a23a322d5e1d973f1e5df406ec754c1543a53b1ea1ce3ec54b632b254e0743",
+        "assets/sfx/magic/transform.mp3": "sha256:835c037a1390b18118e04d4915256958b2bf8bf8196a726aea9ec81fbf629a04",
+        "assets/sfx/progress/complete-done.mp3": "sha256:1e43d66e8c9da873e942f5f71d4eebce3decf71a581c17be12c4997ec6434c0d",
+        "assets/sfx/progress/generate-start.mp3": "sha256:88b9599e41334ec21e1cc8ceb89f2b7209a2526bc81cd891f0c49a64301379d2",
+        "assets/sfx/progress/loading-tick.mp3": "sha256:72dba49889cbe89903865502476d19abf0a6b51b9b6c21eabc62bc1a278e0a46",
+        "assets/sfx/terminal/command-execute.mp3": "sha256:d47b1cb64682b7e6fe005ed87a65f454948f4a7e6d4d4acd848a5b8d7a5a3cf1",
+        "assets/sfx/terminal/cursor-blink.mp3": "sha256:bb0d13bdf7bc476e9e9ba20afb6643e7b868bbe41c7b82a670f6133e5ab91b66",
+        "assets/sfx/terminal/output-appear.mp3": "sha256:c55596314afe8130a9e06a9698fbea2db4c66052a3608e75d2a6b9da53bb3637",
+        "assets/sfx/transition/dissolve.mp3": "sha256:39e8c79015f98aa3c3b251fa289d0d154cf9264d8edcc16d323a02912c9a2e72",
+        "assets/sfx/transition/slide-in.mp3": "sha256:f0050b0c649306fd900fd4fd90db0472f0fc58e250821fd6ed877a6cea0f8dc8",
+        "assets/sfx/transition/swipe-horizontal.mp3": "sha256:b8da68f93a57e8cc27bf62ec796991d3c459d09a2c8cf342755bb97bfb143eff",
+        "assets/sfx/transition/whoosh-fast.mp3": "sha256:941f258f25c3dd7bd9d381e65d8ece7556eb4b666360c99f7adb4ccd0c15637e",
+        "assets/sfx/transition/whoosh.mp3": "sha256:6a665acf18881c9b70288676929491584a0b99471fbebb1962cf91925daded43",
+        "assets/sfx/ui/click-soft.mp3": "sha256:48ab6362e64156c8a907b7705608eaa484494e878eaa4fae77ad32f703990bf3",
+        "assets/sfx/ui/click.mp3": "sha256:c3acef5b24b47c6895bf4d74c3b47d9b25cf3b63e0db81303dcd6fe9d7bb9560",
+        "assets/sfx/ui/focus.mp3": "sha256:6c395c13bbf4eaa99d6434c3cb96622990e840d3cebe7c539626117aba74b936",
+        "assets/sfx/ui/hover-subtle.mp3": "sha256:565ef4d0d8dfcdc6696ef57ec142fffb90ef980f24af753cbe3a1f8ca807e57a",
+        "assets/sfx/ui/tap-finger.mp3": "sha256:abe259fac618b97e28463122cda1ffc739649815da346b5ed279fd617f28a3c3",
+        "assets/sfx/ui/toggle-on.mp3": "sha256:5cb28331ecc00dc18386808ad3502f712af2b617ac7fec1748674209c98c5c7c",
+        "assets/showcases/INDEX.md": "sha256:576c8c1c6ca508e074337a9bcc001615c72ab7bf13611421ff2b13007fd970f9",
+        "assets/showcases/cover/cover-build.html": "sha256:9d35f6687f3cac442dd5d8e2e5ed431d7d3d70b17b60dc44eefecdb3f4d84cd9",
+        "assets/showcases/cover/cover-build.png": "sha256:a5494a78ae0e6b7553a961fcd830a817cc75c6d9c85e5f5a714b42f74b587824",
+        "assets/showcases/cover/cover-pentagram.html": "sha256:8480a08fe2231822e6236c0aad41741faece30a5bf0059f9fece76ef0190dfec",
+        "assets/showcases/cover/cover-pentagram.png": "sha256:d8482c018e4bb15957f95eb0d5f349a318fbd223d5e62d728f667351244bae92",
+        "assets/showcases/cover/cover-takram.html": "sha256:c8436fb562d34a76931bc936bcbd907be2d29ea33b476d306b3a80b5c9594b1b",
+        "assets/showcases/cover/cover-takram.png": "sha256:8aa520e057fd5acf7030db6568dd10b493c898f175d7f7d71836b66e30ca6817",
+        "assets/showcases/infographic/infographic-build.html": "sha256:b69e1cad7ca1db69c0b2498ceec55ef4746fc23c4288169a41c497dbc1321234",
+        "assets/showcases/infographic/infographic-build.png": "sha256:fa9afbfdf559ed0c541f8dc77aedd3796a7a98dcbb75ad2c6e2ac0121f0c0c1b",
+        "assets/showcases/infographic/infographic-pentagram.html": "sha256:c427b9c5fd351463caac85445c0bef83d702ab39e54407bc6ae6a3f93c04b632",
+        "assets/showcases/infographic/infographic-pentagram.png": "sha256:15692b204e9f7ead259983441476e69a12a8f65aa81f72d9ec0619b5cbeccc17",
+        "assets/showcases/infographic/infographic-takram.html": "sha256:3a6f65940c847186f881101b6958d822880bdad81a39c8121653c756cc37b8ee",
+        "assets/showcases/infographic/infographic-takram.png": "sha256:5eba3094dd2a860083c150665772c7d96a5bf93a47f3cfbe5d797f51989ae3ea",
+        "assets/showcases/ppt/ppt-build.html": "sha256:8140f3860e039ea18f090c53b32b2bebcd926de56a6e099250d4aced66ef45f8",
+        "assets/showcases/ppt/ppt-build.png": "sha256:6aa21e66a1077e24521939dd3bfbf907a7ed6266a40870cd925ee1a03e2b3c69",
+        "assets/showcases/ppt/ppt-pentagram.html": "sha256:a4b9461533cdd58e339235f4dad9396a47a389f84f1f19a72d230409d1ef8b1a",
+        "assets/showcases/ppt/ppt-pentagram.png": "sha256:e426bd70703fd6557772006c8db84a6230eab154d1ec6730b9069a327547c7bf",
+        "assets/showcases/ppt/ppt-takram.html": "sha256:77273fcb09a128d9fe9ef41ba38ee90ae3474640614c591ac645b5ba83812ff6",
+        "assets/showcases/ppt/ppt-takram.png": "sha256:88bc00e535912eb9bd7d22dc50c9b737704ae81a257af0d3d9273847f3816a2c",
+        "assets/showcases/website-ai-nav/ainav-build.html": "sha256:9ad1fe678e9ba0fcc6fb7753d07f141b17e9fd27c72225b59521f63e841c9fed",
+        "assets/showcases/website-ai-nav/ainav-build.png": "sha256:a1f380d9aa9dbb891c73682b0d9627760e2c1e39370ed29338cb4372da3f861c",
+        "assets/showcases/website-ai-nav/ainav-pentagram.html": "sha256:d729fbbc6dcf067c8bf97eb654e4c6063908e89d09f91e769a73fca990038d70",
+        "assets/showcases/website-ai-nav/ainav-pentagram.png": "sha256:04b65a201170453d4f4261f9fed835b3e516b2ecbeb528560991c33d0a582dd0",
+        "assets/showcases/website-ai-nav/ainav-takram.html": "sha256:f553f875fe60498e177e5c99c0444895b444fe37c5969364f7f6af53c909e42f",
+        "assets/showcases/website-ai-nav/ainav-takram.png": "sha256:8c16c90993f499aadd35d8a597d9793824181c17e7e5ed29a17f4f4b53958400",
+        "assets/showcases/website-ai-writing/aiwriting-build.html": "sha256:9f35620be810d44ce44e5828684efb5d31c68f6a4ae6dfd77947e800236f786b",
+        "assets/showcases/website-ai-writing/aiwriting-build.png": "sha256:171556a04eb950ae17469a0f040d64b6ee145324f43d76f1d6a8b551582f85d1",
+        "assets/showcases/website-ai-writing/aiwriting-pentagram.html": "sha256:15a913d13ebfceb4631931e0a5aa0d616b42854b4fafe76ccdf50fd11c67e352",
+        "assets/showcases/website-ai-writing/aiwriting-pentagram.png": "sha256:c7eba9cf29218c5a0896d594791c7f1540c37e12855c0969d10b19ba0c2ec71d",
+        "assets/showcases/website-ai-writing/aiwriting-takram.html": "sha256:d038d88ffed699a8f7867737731d175484c97552c32bdeb5d6ba18e90bbb59f3",
+        "assets/showcases/website-ai-writing/aiwriting-takram.png": "sha256:3c18cc8997f817cba5b4363edb5b7687ee564740f63511ce7d8535d49688704e",
+        "assets/showcases/website-devdocs/devdocs-build.html": "sha256:772b8a0de4be25b310c412398d9392da31947e1a97cb4ea5213fe001157acd81",
+        "assets/showcases/website-devdocs/devdocs-build.png": "sha256:9d5f29a7c6985ac923217f5d1b3f829f254fde237f7726ef6d8f01ef18c1ac1f",
+        "assets/showcases/website-devdocs/devdocs-pentagram.html": "sha256:d2486d80dc12b0930a757f294f5679c2877ff0233ee016d90921b7eb8306ec32",
+        "assets/showcases/website-devdocs/devdocs-pentagram.png": "sha256:a40c2b6b029110a79a81ccfaebcfd02f2c9dee3f0eaec333483c13bbdb2afa1b",
+        "assets/showcases/website-devdocs/devdocs-takram.html": "sha256:c0e0f30700539996f21261f6d2ae13cb097d0ae1698d9b39742b818def2752b9",
+        "assets/showcases/website-devdocs/devdocs-takram.png": "sha256:40ac110037d94c5caf3e7210e66cd1fc1909b754ed21a4ae0191cf6150374549",
+        "assets/showcases/website-homepage/homepage-build.html": "sha256:4c207d33dca1cb0d9a5eb4cf63583d30aa2d88b4576668881bd8437f68539090",
+        "assets/showcases/website-homepage/homepage-build.png": "sha256:2be9f198345749735b403e364e7835d30fbd4521d455c817caab5db023282146",
+        "assets/showcases/website-homepage/homepage-pentagram.html": "sha256:315dc0a438dce2668dde109f97ecaec6ac9e6f49d99aad1f69cd95dcf26c7738",
+        "assets/showcases/website-homepage/homepage-pentagram.png": "sha256:5199e4d1d26e0d333a74a2e54b793ff29dccf6c88e577f9c8efd42ad18d2e485",
+        "assets/showcases/website-homepage/homepage-takram.html": "sha256:08f0f7625edbc91733979de526d5a2a270b02f84089aa15b27cc9cd47bbc8a04",
+        "assets/showcases/website-homepage/homepage-takram.png": "sha256:daaf7e9f1f99bc8dd8ee81fe5dcca3b6f37493c0afbce097b247a834c26b7e78",
+        "assets/showcases/website-saas/saas-build.html": "sha256:dcaade14100656640375cd86409af3298077a16dc34ce880f2bf630f6a6fa059",
+        "assets/showcases/website-saas/saas-build.png": "sha256:ac0158d2581567d755dd8fd759d0b453b30fdef189f926efe8662c70f3fb41aa",
+        "assets/showcases/website-saas/saas-pentagram.html": "sha256:7de234517804ffe59698f1b74eed296fc926296bb996c1718e32be0299e90c73",
+        "assets/showcases/website-saas/saas-pentagram.png": "sha256:6017150ea044cbcb00f121f549b0e9cffce583c2a06063b0a6479b18793fbf72",
+        "assets/showcases/website-saas/saas-takram.html": "sha256:122f274623e47b33516caabcc57648a98fb4512d8ca27f6f145c16feec63c08c",
+        "assets/showcases/website-saas/saas-takram.png": "sha256:5f877b12ca5fb876a92f8b44f1f7968de4366dd30c88479e7bf3f361dd2df455",
+        "demos/c1-ios-prototype-en.html": "sha256:b615044b51a62785f09e429c03ccc0b9ed64575d216e856eb9de73735250ad5a",
+        "demos/c1-ios-prototype.html": "sha256:205f37f5953f493e0d64b182be38e2c8e72c75852d3f0802c1335dbf11e095b2",
+        "demos/c2-slides-pptx-en.html": "sha256:ff1f2710f601cc86811339eacd5e735bd7bfe88b94c4e8f9aee0b5bff6dd45e5",
+        "demos/c2-slides-pptx.html": "sha256:7008af7701cf515b681dff9b0d0141564cc72b1c7791f16d0b83f0268ba473c0",
+        "demos/c3-motion-design-en.html": "sha256:3bc25588bcd75bc8e2fd695844301d68288012ae7a5e7b32bffe2eaeed476282",
+        "demos/c3-motion-design.html": "sha256:e772e754e72b7a51894416703b56802df3d5dec76f0f23619825d23fddfc6608",
+        "demos/c4-tweaks-en.html": "sha256:a483395b34252310f1222c7b1a5836fa296c0ca7746c0d1a356111af879bd698",
+        "demos/c4-tweaks.html": "sha256:578fbbff7b635f8e5f1212a5cb9900135fb105cac4779c27d7359698ecdc79a0",
+        "demos/c5-infographic-en.html": "sha256:c3db171ef0dd9475717569e10cd3cba54ea92893a38c1199a104768499015bec",
+        "demos/c5-infographic.html": "sha256:9c48e3b670a6a3fab8c216e652b4906564c5663d39415e970305a18820b94ebb",
+        "demos/c6-expert-review-en.html": "sha256:161a47b07ad00e5cea652ca1142a95a5cf175c2c5ab8adc609726a74f5edd745",
+        "demos/c6-expert-review.html": "sha256:800cbf45ec3aebee7fb077dc7b9b2c7d871072fb5651cd534fed91d7a860188b",
+        "demos/hero-animation-v10-en.html": "sha256:87d2f21994f2eb04981ef062f6cc21b0aa0e4bf4df565055166a1a1614414450",
+        "demos/md-html-narration/md-html-demo.html": "sha256:0350230e56d28d4c0c7d20b0b25bce392ad35b739b2d130adeade6be0fd3ab41",
+        "demos/md-html-narration/script.md": "sha256:2e368457a248cf4ac1c03bbfe7ccb088097222b7528fd526e892579b478c5354",
+        "demos/voiceover-demo/script.md": "sha256:99245dbda4b4d09716ae14aa6a8cea45865035d45b88d2c6519723f3f26cb7fa",
+        "demos/voiceover-demo/什么是token.html": "sha256:8c915b9ef1f8b062bf087a69a435c1fdc62d7a40c2b0b0d3c1a07f3a969f5c45",
+        "demos/w1-brand-protocol-en.html": "sha256:9a1dffe8eed97be95330ef1cdff39c91580448866ed3b318d06c11c70d69cb38",
+        "demos/w1-brand-protocol.html": "sha256:782fb54e99e80ec5e8d6fd151a8041520a1755e97cfe1675e566922391b47858",
+        "demos/w2-junior-designer-en.html": "sha256:a559552ab5409879a35f71cf1dfe2c456f0527a50ba202fd0fd06f708fb04f5e",
+        "demos/w2-junior-designer.html": "sha256:5d1639ddc29834181fcd4336d80534b9977c7e955a5f43bb85f6ed2674044a1b",
+        "demos/w3-fallback-advisor-en.html": "sha256:fd664bbc9c9547bd10c1cea395cee730cb46b6748fb60bfe82c8134f4378367a",
+        "demos/w3-fallback-advisor.html": "sha256:c1ab0cbaa91cccf875538bfcbbb9d1600d1f2c08bd3a87f2e85d38182ec97f4b",
+        "package-lock.json": "sha256:0c334005bfe0da4ad5fa1ea805a1d99d3290f636add29faa861c841ddaac6a69",
+        "package.json": "sha256:144b28fbf3911f2969589bbddb3208bb02e98bfb33988723d33d3a724ad3b7d5",
+        "references/animation-best-practices.md": "sha256:8906117781e1ba649c975ac9a759613f3009be64c40c4abd1ad6b634d218e9a0",
+        "references/animation-pitfalls.md": "sha256:9def8c1dfe837ea20c73f822e0adda081aa2c90533ab16b6c53a95ccceed9a31",
+        "references/animations.md": "sha256:84472fb92832298dde3f2371422e0d01d2f70e863cbf815c6738fa63fc535c04",
+        "references/apple-gallery-showcase.md": "sha256:2da943df364fbcd06bf6a7a1369f1ab1677f55f81860a73eb855604c502146d7",
+        "references/audio-design-rules.md": "sha256:aa8c76e64100507b7f264a78b9408028935b2bdafe2bbde695ed4a49555a75a0",
+        "references/brand-asset-protocol.md": "sha256:bc476983114f00057134d47b229fb4496a37bbac2fcbb4bf9f86139165e1528d",
+        "references/cinematic-patterns.md": "sha256:1266cb4feb14e44997b6abcc33091991565402ec6a7b22698628b31a4da472b8",
+        "references/content-guidelines.md": "sha256:3c0bcf0e94b4f6cc64b11e871ba8d53607ad6ec7317f08dc3f7f5bb6708088a7",
+        "references/critique-guide.md": "sha256:013a6ba3c89f64cc4d0976c1f2f69d0e4e05890e3463939af74cca8d21fab8b5",
+        "references/design-context.md": "sha256:93a7e6be5f6cb29076d3651747d5033701362ddd03283b1ddf11b105757430b6",
+        "references/design-styles.md": "sha256:dc94dd20a4d476d32c802664b5f4b03191526894708a59ddb82ccab84c584518",
+        "references/editable-pptx.md": "sha256:b5b56aa3e94bc5858b1b0405b86a3c4f5f983ddf0df4584d63caf44328a8e2d7",
+        "references/hero-animation-case-study.md": "sha256:57df5520e54dc0cc69e486670a7e395958f6b95408275f9413c5bb5a06de5c5e",
+        "references/launch-film-director-notes.md": "sha256:635bcfc244566f2c49964d02e1fc6cc215851f085aace2d8aed150a51e24ae39",
+        "references/multi-perspective-parallel-case-study.md": "sha256:e1f80cc2e3e12d04405f897f3da49b371dbc7782c5ba23152a956c2780e738da",
+        "references/react-setup.md": "sha256:84533868f53023ea9484a9fd77b0fe79f0aa200bc4030f7810a1f1c95df0c4b5",
+        "references/scene-templates.md": "sha256:c91852062d923787896076368fff883bed2eb8b53087f1efdc2f81ed3014a314",
+        "references/sfx-library.md": "sha256:43e5e00a23e72b78b1872fbf88c38f829a2d3feb5cc5dc49260cdeb98f1958f9",
+        "references/slide-decks.md": "sha256:f7c67305f9f169c6ce86bb35ddf5fd0b95bd543822f7aa0e27f0f66bbd95ac05",
+        "references/tweaks-system.md": "sha256:88569174eaa1d790e5f261a287e44ea39f6b8bce926493d21ad5ff4e7c2ef441",
+        "references/verification.md": "sha256:57598174de5c3fa9e4cf25d373ea705343d15985652aa8d6d1619975cb35a3d9",
+        "references/video-export.md": "sha256:0920befd3a048af5e23b108feee5bbc71189b27da00c2cb8cdb7cb0b4612e9d5",
+        "references/voiceover-pipeline.md": "sha256:ef479697f8f66757159165290b04bde09819d85c96a88d5c57d449fa6fb1f8c1",
+        "references/workflow.md": "sha256:57c032774cb789949bb5ef5840cefc137f31573cc2449fc8f699a794bf40d4ee",
+        "scripts/add-music.sh": "sha256:d3d07de431975f15c05e04826e5df588f4a4eebecd70fa55b51bc79af7658a1b",
+        "scripts/convert-formats.sh": "sha256:4fdf469a1f1c44b40858cea8484d92fcae48096de1dedc3d4b9d640b5026277b",
+        "scripts/export_deck_pdf.mjs": "sha256:323f3d5963e8b9245d468f051d4b676e67d9b97cc73b62d98239a13c65d8cc31",
+        "scripts/export_deck_pptx.mjs": "sha256:c44ec586b3a059f00cd4d1a214973a73cbb89765f8359286990536840857e0ad",
+        "scripts/export_deck_stage_pdf.mjs": "sha256:d024a6b5fa84c1d25caf4c1acf47ca24a5c9e8c7ed3c45befa9fabac82765b04",
+        "scripts/fetch_images.py": "sha256:6bb273e785513c965a14445a2daaabbf9afc38f1dd93802c28a35374c53def89",
+        "scripts/gen_deck_thumbs.mjs": "sha256:7a6ec5c4351e36aaeeec66f5488a3ef12574bb994b3f81c4b35fd33144066e33",
+        "scripts/html2pptx.js": "sha256:389a0cfb5406a37b2dd73beed6c2e3078e9491f1285328e36a92490e4f90bd67",
+        "scripts/mix-voiceover.sh": "sha256:cae4cfdfabbf918a6bd9fa7a2cac63e463903b348461360a19ca163d98b960ed",
+        "scripts/narrate-pipeline.mjs": "sha256:1b50527c4708b2b04742ee0cb277a76f0a1d1e6f2bfd4d76f3629033faf353a5",
+        "scripts/render-narration.sh": "sha256:30703fff8de2f7d94ceb0714dd8ce3c712ff1b7f5dd9803d41bcdc1c6a0330b2",
+        "scripts/render-video-seek.js": "sha256:c6b68e89fc4f1709baf2b8a5e7910dfad5716aeb6bc40fb6aa4daaf92c7e9abb",
+        "scripts/render-video.js": "sha256:2c56bba90d045a3108651e4602617466f839adb36a29a0576019f9884f5b2a36",
+        "scripts/tts-doubao.mjs": "sha256:676335abe9556f0e769b5c077d9a0d537a6d9626d31c5f38a9f15531c66e03ed",
+        "scripts/verify.py": "sha256:7a0a3243f51a1c816944a948a5caba239c63c9890327a60d80934d493153e9e4",
+        "test-prompts.json": "sha256:1b09dd756a0c3673b9f0b2fd8a83ce04fa21095af3d2b522e364285b3775ea68"
       }
     },
     "pdf": {
       "source": "https://github.com/anthropics/skills.git/skills/pdf",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:21.112492+08:00",
+      "installed_at": "2026-06-11T19:45:47.725385+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/pdf",
       "version": "5754626",
@@ -348,13 +419,177 @@
     "playwriter": {
       "source": "https://github.com/remorses/playwriter.git/skills/playwriter",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T18:45:23.715221+08:00",
+      "installed_at": "2026-06-11T19:46:03.305479+08:00",
       "repo_url": "https://github.com/remorses/playwriter.git",
       "subdir": "skills/playwriter",
       "version": "9d837c0",
       "tree_hash": "e6cd918f821d35a79dca0277d197df667a240753",
       "file_hashes": {
         "SKILL.md": "sha256:f0aab9f8049d94418ac6871fd51423f35189d7633f35be91d9e49caa26ad9fdc"
+      }
+    },
+    "react-best-practices": {
+      "source": "https://github.com/vercel-labs/agent-skills.git/skills/react-best-practices",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:41.711576+08:00",
+      "repo_url": "https://github.com/vercel-labs/agent-skills.git",
+      "subdir": "skills/react-best-practices",
+      "version": "f8a72b9",
+      "tree_hash": "343db72180d05814949fef7d46be96b5c6ee86b3",
+      "file_hashes": {
+        "AGENTS.md": "sha256:fc93e7421177bbf869cce892bc60a6c83a4517d974bc3bf65c4e2c1e58a6ccf6",
+        "README.md": "sha256:9eafb2123d3b8b2aef41fba0db2648a3f4f49996f8c7c8bb2c86263befd8b48a",
+        "SKILL.md": "sha256:71ed7794962fa6e803ee83030517b5b93a9f70fbfeb431ec4535c5480a8d8355",
+        "metadata.json": "sha256:c4e18bac3290fbe1b471a605867d4df68b03144ea26b8befdbe8f9d8fd124354",
+        "rules/_sections.md": "sha256:01c59969e4e867f0708c8f8ef9c6d87fab9a07d0586244f429ff84013db8a115",
+        "rules/_template.md": "sha256:99df2a3ea088c6c22de2484ddc7e964d0e9923846f44c63380343ecc64455442",
+        "rules/advanced-effect-event-deps.md": "sha256:55ed8f9f27a1bff803d6fa55828176207714b02123cbb97ddb8a90d88024a723",
+        "rules/advanced-event-handler-refs.md": "sha256:a3097edeecfb2ff6851cd66ed8cdf0617c3c88180504bee824aa6e75a215bbbc",
+        "rules/advanced-init-once.md": "sha256:3e4dc22173eb0e2b6dcf583e3babd862b8696328f8f59aee7c4d746c5bc05f6c",
+        "rules/advanced-use-latest.md": "sha256:8a3f64dfe5a77d1564248faf17fe662ae75b55d497a243cb30b38eb07ccbbf9a",
+        "rules/async-api-routes.md": "sha256:523338540d73427dc14c0cbb19f2741ebccdf8b105a7b2c1b33d2905cf237a42",
+        "rules/async-cheap-condition-before-await.md": "sha256:03107c1f70a293cd58a8abc5474c5548e20ea4efdf01b6d45aae7ad0ac1cb32c",
+        "rules/async-defer-await.md": "sha256:f3c142d090615abdcc99d31c123be37b31f0f1ed8d9ec9f7789a3bc6883ae0fb",
+        "rules/async-dependencies.md": "sha256:16ef469f877e30c6b8e1e1b4bc3e527312fa3c6318cb785a4eca186ea236131a",
+        "rules/async-parallel.md": "sha256:6d2f841896279e976dfcdc1ac89e70771ac188baadfd43c096b5706cb838b961",
+        "rules/async-suspense-boundaries.md": "sha256:de05fedac2eb7ae563b887b5a424464ec3dfaf84e5b7797467ebe2a796ac8afc",
+        "rules/bundle-analyzable-paths.md": "sha256:62090b5c815fd71bf1133dce754f51abc16a9456d0ccd025fd627de27726e92a",
+        "rules/bundle-barrel-imports.md": "sha256:e648f6d54525f07a691357040ca5bff6ea3424788a91ff63812adb29622a671b",
+        "rules/bundle-conditional.md": "sha256:09c8259c3efb04fc0abb8e412ccbda217c222ae8118516283e571c995fe3a7d4",
+        "rules/bundle-defer-third-party.md": "sha256:3719fb47b191e8db4fe22686ec88448ad5af9e6838585425abbe103d0b642e37",
+        "rules/bundle-dynamic-imports.md": "sha256:401817a7369f315fc5a68a1095742ff7d53d0461906880dc9d64a41495ee1986",
+        "rules/bundle-preload.md": "sha256:d1f7cc28da7cd5ab249acd287edc5b761afcfb194e9cb62cd44c5f3543db2de2",
+        "rules/client-event-listeners.md": "sha256:242a873349febc1ce685e85617994784dbab92c2eaa68aed7fed5a83e7680e93",
+        "rules/client-localstorage-schema.md": "sha256:0fb7cdf9dc93fdf22f87e3669f953fb9d4ac9b0be42eec4a29fe9a2560610b88",
+        "rules/client-passive-event-listeners.md": "sha256:1f35016f9053de69e884ee9be00654e37979c2ca85f5e57764dc2626ff7acb4b",
+        "rules/client-swr-dedup.md": "sha256:644652c39c6cc00de8d1c77a7273612e868dc3f7edda30764164c12ec0f764a3",
+        "rules/js-batch-dom-css.md": "sha256:480b891b9eaf96e929dc1e964274a4828e3a78009b7d00ccd965a0d425215959",
+        "rules/js-cache-function-results.md": "sha256:3daaa11d24f4295cb6be8bc6f407f2ce83cc7b5bd1f0e68891ea8ab835721dc7",
+        "rules/js-cache-property-access.md": "sha256:73e47431e74878a927061bf0ddc7cd91a7556cb35d2573f3421e82300d9ae311",
+        "rules/js-cache-storage.md": "sha256:11b826b0433898c1ece2d3547010d8e77db9fb240185748c45db91493de9b6cc",
+        "rules/js-combine-iterations.md": "sha256:71add08aeeb43091d4ff4c0b2842cce8b4bdef8ad3e732cc034bb5a84827e746",
+        "rules/js-early-exit.md": "sha256:925ce5ce87f3347186ca62212f29cc6baa2b8c85a96d2720ad07c3d0abf781c0",
+        "rules/js-flatmap-filter.md": "sha256:9e5b166a41914d975bef7635467f8fb32cd98b5c3126c0bc6f163490812fb5f0",
+        "rules/js-hoist-regexp.md": "sha256:f9e9aef2f7c2307dd7310f283df85dcada45fc43e9bb941b0c3aa414dec21ec4",
+        "rules/js-index-maps.md": "sha256:5df1bdc2cfabb2c98abd55d26762e5c18189535c2e686184f426082e62920391",
+        "rules/js-length-check-first.md": "sha256:8b54a311c826b299272f29187fc58bc55772a04c4a72eeb29456ee96dc9fc624",
+        "rules/js-min-max-loop.md": "sha256:87dfb67e2f39df6ad8bcfb5b78c5fb364d3c07554ad188a202408d99f3763421",
+        "rules/js-request-idle-callback.md": "sha256:ee08f83905b4011abbc33d594033157d77561b5bbd9b36b04f0f409581ffec32",
+        "rules/js-set-map-lookups.md": "sha256:a7fd781a6ba9ad49065961b6f9a90ef486bf6b648390e1a08704025f98e1642b",
+        "rules/js-tosorted-immutable.md": "sha256:d0a5e1b0fec48a0a81397957e2f068e224329f7c42cb5feeed8aae6fa64025e8",
+        "rules/rendering-activity.md": "sha256:1e5e7eaf3555e61d6a2e900089c676527d26259501db5594f59544b6c664f85a",
+        "rules/rendering-animate-svg-wrapper.md": "sha256:9c6ae0ca7a51434e803887c64cded760956579a1452ccb80a461a03f9c937c77",
+        "rules/rendering-conditional-render.md": "sha256:2ec2fa23c4148285144687050c52369adba3da2fbe3d486f8d3e0aad8f06f2bc",
+        "rules/rendering-content-visibility.md": "sha256:64eee6d5b916fe74df33363994b27fc7f71bea3bcedc7ee04bda23107ca3e6e4",
+        "rules/rendering-hoist-jsx.md": "sha256:93b229560fae92005ed9a2a829064607b39b2e984e92d221d05b2d41df2b7c0e",
+        "rules/rendering-hydration-no-flicker.md": "sha256:dc7ab358c67c177bca6e6f360fbc935ebe4efa928c0ba3ebd3f9f3d9e2000ca3",
+        "rules/rendering-hydration-suppress-warning.md": "sha256:915bacb934e2927d84b37a3f3d225a47b309ac8f9e494ed2bcb66ce07c5676a2",
+        "rules/rendering-resource-hints.md": "sha256:351b1095d641717b930f1b2253282b7120af3023bc74e06c17675168d4286864",
+        "rules/rendering-script-defer-async.md": "sha256:4cea07b7875ba7fc2c7465ff23b63a2bb334f90aaf2d9293d38d67b05fdb32ab",
+        "rules/rendering-svg-precision.md": "sha256:ed468533f6e95f622859c884b122cf21f9f593ed6bb3d500a54de4b9f9bcb9fb",
+        "rules/rendering-usetransition-loading.md": "sha256:3a1249c3f13026b6f54ab5712c388df219d6af01b12aa542749acd99a46f4bc1",
+        "rules/rerender-defer-reads.md": "sha256:234050a77faf50cb306be10a9e15bd4421134ab5907e75f13e6d78e2bd262dc9",
+        "rules/rerender-dependencies.md": "sha256:17eb5830956fb56486fd3cfc7431f5849d39751730c05ad9e77dd4f0c27169c5",
+        "rules/rerender-derived-state-no-effect.md": "sha256:cb11ec76f50aa7b6847269f02d79b120c889a30d9ecd2c1d578f75144419c77a",
+        "rules/rerender-derived-state.md": "sha256:1c326bb67b01fb084eb00c8911b0a7cff54681c2315b629f88e49b64eaa6481d",
+        "rules/rerender-functional-setstate.md": "sha256:5e68df6b2ae8058e67f476ff1ac67bde159f5a9d18df439e46eabcdeb7b52e58",
+        "rules/rerender-lazy-state-init.md": "sha256:4ae844740f266fc8cbf050701230286624a2440ec5be67b9a63d9edc3c580573",
+        "rules/rerender-memo-with-default-value.md": "sha256:81c47476564ad8a79fc68fc442734255ca7d6829424359464503fda0a9f9a0dd",
+        "rules/rerender-memo.md": "sha256:1f258990c2f27ff6256b3cc5c43300631bb3f0d81f749aed08d07fcdcc131dd1",
+        "rules/rerender-move-effect-to-event.md": "sha256:abc2cbf167bee056743023351e96806a411d3398da8802093620aecf0721f029",
+        "rules/rerender-no-inline-components.md": "sha256:1cc32907a770272524ba682eef9e7efdd8ad4533b6f89b718a1fcd7d1d0eb6a3",
+        "rules/rerender-simple-expression-in-memo.md": "sha256:5bdcf2d1558ba5204e643c887b7b4060f89630969425651eb68e96427d97f800",
+        "rules/rerender-split-combined-hooks.md": "sha256:6f45d703343484ef9acef9388397f3642966ae6a5a258899a0cf1f9977cfbf6c",
+        "rules/rerender-transitions.md": "sha256:60f4033909a62df5e5b8c601494f9e50a562e2f8c1c2d81eac24f38142265f1c",
+        "rules/rerender-use-deferred-value.md": "sha256:8c3579576a61a949884167745dcfaf1d5426ba305cc61fd0a79602d70fda4909",
+        "rules/rerender-use-ref-transient-values.md": "sha256:f1a649af9d1d0b5c762f6c9c4c1c70c90d7df82aa10296ee87aadb78c1b76c54",
+        "rules/server-after-nonblocking.md": "sha256:d0b8d24a3db9f0f65f9e2bddbf230b0e03a5f60e1229d93a4a18f5e7a991c7c2",
+        "rules/server-auth-actions.md": "sha256:a2ca8aa102839251c7971ec784560fab943c20b36fe6f80365d4110c13260c23",
+        "rules/server-cache-lru.md": "sha256:1924b64561841923b88a657085097a0aeba3e0ba2d5470b9f5c15cc10d6ae70f",
+        "rules/server-cache-react.md": "sha256:fddeea6c870bb3da4134b61d54b7d09b83d2603f929b7547cd3dc1dc269edd5c",
+        "rules/server-dedup-props.md": "sha256:c2747424cdac46be62f835f245a0aa887b0090b416d28e2ac8676702645eeb37",
+        "rules/server-hoist-static-io.md": "sha256:5abea4dd882b13661bd5f7dfb93f9e547d5f08176c61c448ade91b210ed5d49f",
+        "rules/server-no-shared-module-state.md": "sha256:4d869bf1cd2f1632e5ca4c0e64b1cf0e71c5f5a0f940bc8a22174d205e735ed7",
+        "rules/server-parallel-fetching.md": "sha256:569a2e9fc04f9606686cd75c5894ef8781b502786a7fffe241396846c7733472",
+        "rules/server-parallel-nested-fetching.md": "sha256:ad5d9656984d4a959997a2367bf59cc6632297b4634a1dd13a087939d83f30b3",
+        "rules/server-serialization.md": "sha256:f4c7d68b29c82381baad059c4a7f09e868e71ec9c3115a26ad3ae7d24c0dfe1f"
+      }
+    },
+    "skill-creator": {
+      "source": "https://github.com/anthropics/skills.git/skills/skill-creator",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:47.930248+08:00",
+      "repo_url": "https://github.com/anthropics/skills.git",
+      "subdir": "skills/skill-creator",
+      "version": "5754626",
+      "tree_hash": "3cf9a8db32597ba3e24b584a3d696f4e11c7d7b6",
+      "file_hashes": {
+        "LICENSE.txt": "sha256:bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+        "SKILL.md": "sha256:dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
+        "agents/analyzer.md": "sha256:bf68f4cac5a56c673a928c2e6d619586c5b93ea364026ab37547772cb45a663a",
+        "agents/comparator.md": "sha256:fe1fc9787c495d864c5d6eada47396478572325fde1b33a96d78bf4b849b7a3e",
+        "agents/grader.md": "sha256:57134da0c1a4eea33fbd74a1c9c44aa814f07d6bc64de303edb586f941e5d21a",
+        "assets/eval_review.html": "sha256:ce477dcc74dc1c0d1d3352646a79167b5a63634e936b1019160025065974e452",
+        "eval-viewer/generate_review.py": "sha256:fc9d1b9243fe5ab6012ebd579bd76d0035de1b79fd3b969de114defab26478fb",
+        "eval-viewer/viewer.html": "sha256:a53213426ee1100441d701a3a0d49cda7a842f992d2c36463f4d3cc0258575fa",
+        "references/schemas.md": "sha256:8e8876180a8989b406a4d3edddf875b04cdfd5805cc8616686d552b11ce4455f",
+        "scripts/__init__.py": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "scripts/aggregate_benchmark.py": "sha256:123ef128ea5ccc01a4b1ac212ef5567f21e9c13d3d240609780beeb3200c49aa",
+        "scripts/generate_report.py": "sha256:13df7118a3c50c83c4c3250a606d5f2b20b25a3d44cbc392b3d669ec75281453",
+        "scripts/improve_description.py": "sha256:87d864570220b699fac52da309d2d6efdb060647bfebc74f768128e646accf80",
+        "scripts/package_skill.py": "sha256:1a33059b0db1ef73375d46d513e5ea81369d2e8838c970597b0d52ddef8d1c0f",
+        "scripts/quick_validate.py": "sha256:67cf5703402013936c8fb75ad6a1afecd8841d45cc5e606b634eb05825fde365",
+        "scripts/run_eval.py": "sha256:43e3b8f80dbf69c343967ba77e268fae991d9fa3ed68b32a0ff02532cd48657f",
+        "scripts/run_loop.py": "sha256:7bd6f674203168520517eec94c55f493c0d154339b061b4d7c0f0dad187d0f21",
+        "scripts/utils.py": "sha256:3af8ae62c40c73ab712207436a0d9a981e845f25c5a7040229eb189cc8e45bb1"
+      }
+    },
+    "skillshare": {
+      "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:46:16.090993+08:00",
+      "repo_url": "https://github.com/runkids/skillshare.git",
+      "subdir": "skills/skillshare",
+      "version": "3ad54ab",
+      "tree_hash": "e9856989ea681bb7e1f1005c3bf6f052ea4fdb1e",
+      "file_hashes": {
+        "SKILL.md": "sha256:a1c425656675cb94250a3f2b0d52163369dcf9bb49cc9b8a0aa8c8dc99a7e468",
+        "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
+        "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
+        "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
+        "references/extras.md": "sha256:27529c7fba6335efabb38a2a5dac1c0e4a0b79d16d0188d3f98dad2068ec4bdf",
+        "references/init.md": "sha256:41d99a2a49f576e1a2354312856ccf730f8d19d4c8d35c592585d40bc2d14d82",
+        "references/install.md": "sha256:2b444bfcd211fae59421631ecd49331b4de287c311354f8ed3ca19f204d223db",
+        "references/log.md": "sha256:406e85525f53f4deaa0f48bf8b3b53db3e032b99f5a0e926c84542d51b3a3625",
+        "references/status.md": "sha256:0143c8250ecbedfa14607b82cbfb23107294b6c1e053b5726629556b7a47412c",
+        "references/sync.md": "sha256:75577dce829fda6050b3b761915b70d9aef0d6bdb3c010d2fef7b7b22e226a8e",
+        "references/targets.md": "sha256:130b0b07b17a88d4bc09af0262a6b161421946f5442295dc5bc828f95226763e",
+        "references/trash.md": "sha256:fb94aa6b71d469fa8f6b5e728fcab531b6eb010a2092389b02eaaadf3ebc98cf",
+        "scripts/run.sh": "sha256:e434ebdb7d3ae0b37c00ddc36687bc975da9e766b8cb863f9aed9a624ebbdfa9"
+      }
+    },
+    "taste-skill": {
+      "source": "https://github.com/Leonxlnx/taste-skill.git/skills/taste-skill",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:58.198244+08:00",
+      "repo_url": "https://github.com/Leonxlnx/taste-skill.git",
+      "subdir": "skills/taste-skill",
+      "version": "1a6dc0a",
+      "tree_hash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
+      "file_hashes": {
+        "SKILL.md": "sha256:aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+      }
+    },
+    "web-design-guidelines": {
+      "source": "https://github.com/vercel-labs/agent-skills.git/skills/web-design-guidelines",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T19:45:41.746189+08:00",
+      "repo_url": "https://github.com/vercel-labs/agent-skills.git",
+      "subdir": "skills/web-design-guidelines",
+      "version": "f8a72b9",
+      "tree_hash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "file_hashes": {
+        "SKILL.md": "sha256:f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f"
       }
     }
   }
