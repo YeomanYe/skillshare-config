@@ -21,6 +21,11 @@
       "tracked": true,
       "branch": "main"
     },
+    "_alchaincyf-darwin-skill": {
+      "source": "https://github.com/alchaincyf/darwin-skill.git",
+      "tracked": true,
+      "branch": "master"
+    },
     "_core-web-vitals-official": {
       "source": "https://github.com/addyosmani/web-quality-skills.git",
       "tracked": true,
@@ -105,6 +110,252 @@
       "source": "https://github.com/nucliweb/webperf-snippets.git",
       "tracked": true,
       "branch": "main"
+    },
+    "dart-best-practices": {
+      "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-best-practices",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:25.257743+08:00",
+      "repo_url": "https://github.com/kevmoo/dash_skills.git",
+      "subdir": "skills/dart-best-practices",
+      "version": "093f03a",
+      "tree_hash": "2c4f98b362a92ca86c005f7972173cd3b573291d",
+      "file_hashes": {
+        "SKILL.md": "sha256:d78b36613d30f8eed68354122cfee2046d7855fd21d1be4a1b6809bb671a161f"
+      }
+    },
+    "dart-modern-features": {
+      "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-modern-features",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:25.171914+08:00",
+      "repo_url": "https://github.com/kevmoo/dash_skills.git",
+      "subdir": "skills/dart-modern-features",
+      "version": "093f03a",
+      "tree_hash": "24a243a39caea5aef8639f492d7a609fccd941d2",
+      "file_hashes": {
+        "SKILL.md": "sha256:f0e1965b216c81e29ae4644b8cb9bd0459bf6942070acbaac7a281258c090b78"
+      }
+    },
+    "deno-expert": {
+      "source": "https://github.com/denoland/skills.git/skills/deno-expert",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:26.602315+08:00",
+      "repo_url": "https://github.com/denoland/skills.git",
+      "subdir": "skills/deno-expert",
+      "version": "1a4267f",
+      "tree_hash": "278b2fa7ca7d573fe10dc42e4b6ae45a87ce609a",
+      "file_hashes": {
+        "SKILL.md": "sha256:a1d20baf97eeef1f3a0a1d908df181bdf11f824b2b97fee269d5f6056130f260"
+      }
+    },
+    "deno-frontend": {
+      "source": "https://github.com/denoland/skills.git/skills/deno-frontend",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:26.512962+08:00",
+      "repo_url": "https://github.com/denoland/skills.git",
+      "subdir": "skills/deno-frontend",
+      "version": "1a4267f",
+      "tree_hash": "83bec3724454842dde729558cc8be1181ab9c3a0",
+      "file_hashes": {
+        "SKILL.md": "sha256:3c201028ba9a4b1eee8bce5b72be5d742caede78a3d96073936cfeebf6a749ea"
+      }
+    },
+    "developing-preact": {
+      "source": "github.com/oaustegard/claude-skills/developing-preact",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T16:33:36+08:00",
+      "repo_url": "https://github.com/oaustegard/claude-skills.git",
+      "subdir": "developing-preact",
+      "version": "8ceb385",
+      "tree_hash": "555071da842c7348bf6ccf9f35b2a7a4402decbd",
+      "file_hashes": {
+        "CHANGELOG.md": "sha256:8694f58505890e55b1985811148b446d6b3b1a720f090dcc0147384e7bdebb3d",
+        "README.md": "sha256:dbc4c44d34c8f580b507accac7289fe34018f9405b3c48657633a49f7f28063f",
+        "SKILL.md": "sha256:a2b1311bd13ad5460d0682535d60547a3165253bbe4a408548c015ce4cd6f94a",
+        "assets/boilerplate.html": "sha256:0458f12cc55ff8910467ab0a9a9d08dc4360aa1ee92c1f51f200d4b009cab718",
+        "assets/component-patterns.md": "sha256:a255e9c11d07c2bf6f0953e425726283d37e4cc9f3dc5ceb08ca3cb87a768575",
+        "references/architecture-patterns.md": "sha256:39987b010449d9c1778a75139406250904f243e0f8e2b116cf29193416f7163c",
+        "references/preact-v10-guide.md": "sha256:0d073b407a4dc051ea346eed8ef66f4b734cd70b704140651574cb3e540b6e40",
+        "scripts/vendor.sh": "sha256:e27b9e2c25b1de58108991f4d02a2447bccbfc0fbb21895c9406ea6b4744bb45"
+      }
+    },
+    "flame-game-dev": {
+      "source": "https://github.com/miles990/claude-software-skills.git/domain-applications/game-development/flame",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:30.082178+08:00",
+      "repo_url": "https://github.com/miles990/claude-software-skills.git",
+      "subdir": "domain-applications/game-development/flame",
+      "version": "73632f2",
+      "tree_hash": "c0c0b8e7b14163657d25ec6a3d8cd90216813cbf",
+      "file_hashes": {
+        "SKILL.md": "sha256:a52b86df76807f6a0efaac2d1328e96e4f8490faae80b62b4a0c44da5427bf82"
+      }
+    },
+    "flutter-accessibility-audit": {
+      "source": "github.com/VMeste-App/vm-flutter-app/.agents/skills/flutter-accessibility-audit",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T17:48:02.908218+08:00",
+      "repo_url": "https://github.com/VMeste-App/vm-flutter-app.git",
+      "subdir": ".agents/skills/flutter-accessibility-audit",
+      "version": "2c233d1",
+      "tree_hash": "7195244330c62ac524ae8097f62332e5ca1273cd",
+      "file_hashes": {
+        "SKILL.md": "sha256:596787581979d7bd719a48abcd9d04ee7ffaf7d0dbc4c6f255de8cf10b215919"
+      }
+    },
+    "flutter-add-integration-test": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-add-integration-test",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.259895+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-add-integration-test",
+      "version": "70e2b6b",
+      "tree_hash": "2662e110e1aa719a30b58536fce6fca7793fe690",
+      "file_hashes": {
+        "SKILL.md": "sha256:8d81b053c5fdf5b61aa7d0165cbc35e7a9a1c5bdcd7a301b8293a108771e6bab"
+      }
+    },
+    "flutter-add-widget-preview": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-add-widget-preview",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.345838+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-add-widget-preview",
+      "version": "70e2b6b",
+      "tree_hash": "ef0192a0d08c593fb0385a9aa5c8836eee8ccb44",
+      "file_hashes": {
+        "SKILL.md": "sha256:88cfeb7084e798714f5ac59cff62e5441759bcbe096c0fdc37abd21111b20212"
+      }
+    },
+    "flutter-add-widget-test": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-add-widget-test",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.457516+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-add-widget-test",
+      "version": "70e2b6b",
+      "tree_hash": "8b4202131bb2f3e47c7a512f6fe401ea2fc40046",
+      "file_hashes": {
+        "SKILL.md": "sha256:6c449ebd844e331e661b12630b6ad2a218e84d1bd8ea8377ba9dbd62ffe2798a"
+      }
+    },
+    "flutter-apply-architecture-best-practices": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-apply-architecture-best-practices",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.546067+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-apply-architecture-best-practices",
+      "version": "70e2b6b",
+      "tree_hash": "d5a184eff2ce5a111d4f290efd2ba5511b8a6d69",
+      "file_hashes": {
+        "SKILL.md": "sha256:00497869976a903c83f509a59d4b6a501d409fa711eb8e1f89945921e1983b65"
+      }
+    },
+    "flutter-build-responsive-layout": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-build-responsive-layout",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.904452+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-build-responsive-layout",
+      "version": "70e2b6b",
+      "tree_hash": "018c3c52c14b46fe242ef0b1336a7b07d5d860be",
+      "file_hashes": {
+        "SKILL.md": "sha256:c7a5d18071c625137cad2def9b13f3579d9bdf0aae29621a1825f12b560394c0"
+      }
+    },
+    "flutter-fix-layout-issues": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-fix-layout-issues",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.634128+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-fix-layout-issues",
+      "version": "70e2b6b",
+      "tree_hash": "2227ad7b018a7b381a701aedabe74555667add58",
+      "file_hashes": {
+        "SKILL.md": "sha256:e82c82b4245ef502bd93bc543d4f5968f4ee8043fa7556ffebcb34f30651fc9b"
+      }
+    },
+    "flutter-implement-json-serialization": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-implement-json-serialization",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.723491+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-implement-json-serialization",
+      "version": "70e2b6b",
+      "tree_hash": "8c117bee0dd986449f4d636b86221a7f9485a222",
+      "file_hashes": {
+        "SKILL.md": "sha256:05a4478e0a3d119f26ae6e6983da3d5c2ea134763aeff59a06cef346bef391b1"
+      }
+    },
+    "flutter-setup-declarative-routing": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-setup-declarative-routing",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.994574+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-setup-declarative-routing",
+      "version": "70e2b6b",
+      "tree_hash": "15765e83c9051b4b9f79612f43b273018d8923ef",
+      "file_hashes": {
+        "SKILL.md": "sha256:3a52fc5663cf37d68b6e096ef3e59f5056a01e9151b64cdf0728672a13398953"
+      }
+    },
+    "flutter-setup-localization": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-setup-localization",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:33.816693+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-setup-localization",
+      "version": "70e2b6b",
+      "tree_hash": "9f0dbd0422cd764fa4374005a2eb2c94082a6de2",
+      "file_hashes": {
+        "SKILL.md": "sha256:dda4ef8b74976a3e51faa43d7ad00f03eab64d6d5ed0ef89cf4184a04196da17"
+      }
+    },
+    "flutter-use-http-package": {
+      "source": "https://github.com/flutter/skills.git/skills/flutter-use-http-package",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:34.085495+08:00",
+      "repo_url": "https://github.com/flutter/skills.git",
+      "subdir": "skills/flutter-use-http-package",
+      "version": "70e2b6b",
+      "tree_hash": "e6e4937fe8d16fc8fb37921ac00f669124731752",
+      "file_hashes": {
+        "SKILL.md": "sha256:439fec047f07e9ec7cd387bf506801bb11b2b9037e5d2c5c03602360532980c4"
+      }
+    },
+    "pdf": {
+      "source": "https://github.com/anthropics/skills.git/skills/pdf",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:21.112492+08:00",
+      "repo_url": "https://github.com/anthropics/skills.git",
+      "subdir": "skills/pdf",
+      "version": "5754626",
+      "tree_hash": "6369f4649de69bd6857c9bc3b058a77206009238",
+      "file_hashes": {
+        "LICENSE.txt": "sha256:79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
+        "SKILL.md": "sha256:9f78b8359fbd4943ad260a7a1e436e5a96503406d6c34e99f69223d647d85b9c",
+        "forms.md": "sha256:9530b3f57034792e0242a3abfe8b3c296466329551916f2ff6c5a70db78f7e44",
+        "reference.md": "sha256:03a5f964f8abecbbe156f363356e927e864d7ee964f1012c84ee1bfc8acbeb95",
+        "scripts/check_bounding_boxes.py": "sha256:0ced522402dd7b3c82a0be9518cf4e485fa9cc0467d7beab6ddb04cb36fcc3e1",
+        "scripts/check_fillable_fields.py": "sha256:1fe10b9980a5493c9bbec8c20630c603eaa475b45403751c08f26738736647b8",
+        "scripts/convert_pdf_to_images.py": "sha256:7f58e292a67e18a8ff000d30bad2469389546731f7e8a698cc1d0aed001ea15d",
+        "scripts/create_validation_image.py": "sha256:8fa9fd7962c9f940045b81cf6b991e7c1057c1838e3f9cc6d305007a222ffebf",
+        "scripts/extract_form_field_info.py": "sha256:bb235b36f497bbb1c7c6821cecf527bbba7213520de11219da99f7b13a38c109",
+        "scripts/extract_form_structure.py": "sha256:6814e3fe8f78c2b16d766c132b5a727ff7a31b71d76a7d46bd6e40fe50bc97c5",
+        "scripts/fill_fillable_fields.py": "sha256:d140872c2e92e41b1e05370ae8d270c5b7f5ebdf55d9905f03bc974a9c708ff5",
+        "scripts/fill_pdf_form_with_annotations.py": "sha256:8a56e063a49ed53c0b0e1d312ecf8023af76816ed139486ec3b539873de202fd"
+      }
+    },
+    "playwriter": {
+      "source": "https://github.com/remorses/playwriter.git/skills/playwriter",
+      "type": "github-subdir",
+      "installed_at": "2026-06-11T18:45:23.715221+08:00",
+      "repo_url": "https://github.com/remorses/playwriter.git",
+      "subdir": "skills/playwriter",
+      "version": "9d837c0",
+      "tree_hash": "e6cd918f821d35a79dca0277d197df667a240753",
+      "file_hashes": {
+        "SKILL.md": "sha256:f0aab9f8049d94418ac6871fd51423f35189d7633f35be91d9e49caa26ad9fdc"
+      }
     }
   }
 }

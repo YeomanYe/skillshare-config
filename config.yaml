@@ -10,6 +10,11 @@ targets:
         - _agent-browser-official__skills__agent-browser
         - _find-skills-official__skills__find-skills
         - _skill-creator-official__skills__skill-creator
+        - pdf
+        - playwriter
+        - deno-expert
+        - deno-frontend
+        - developing-preact
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans
@@ -43,6 +48,11 @@ targets:
         - _agent-browser-official__skills__agent-browser
         - _find-skills-official__skills__find-skills
         - _skill-creator-official__skills__skill-creator
+        - pdf
+        - playwriter
+        - deno-expert
+        - deno-frontend
+        - developing-preact
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans
