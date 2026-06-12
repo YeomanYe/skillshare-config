@@ -42,6 +42,12 @@ targets:
         - _YeomanYe-skills__sync-skills
         - _YeomanYe-skills__flow-skill-dev
         - _YeomanYe-skills__flow-skill-research
+        - _YeomanYe-skills__flow-project-bootstrap
+        - _YeomanYe-skills__project-prep
+        - _YeomanYe-skills__director-design
+        - _YeomanYe-skills__director-architect
+        - frontend-design
+        - huashu-design
   witsy:
     skills:
       path: ~/.agents/skills

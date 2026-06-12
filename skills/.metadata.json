@@ -39,7 +39,7 @@
     "cli-hub-meta-skill": {
       "source": "https://github.com/HKUDS/CLI-Anything.git/skills/cli-hub-meta-skill",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:37.109618+08:00",
+      "installed_at": "2026-06-12T14:00:30.996751+08:00",
       "repo_url": "https://github.com/HKUDS/CLI-Anything.git",
       "subdir": "skills/cli-hub-meta-skill",
       "version": "48f0449",
@@ -51,7 +51,7 @@
     "dart-best-practices": {
       "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-best-practices",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:38.637462+08:00",
+      "installed_at": "2026-06-12T14:00:32.389897+08:00",
       "repo_url": "https://github.com/kevmoo/dash_skills.git",
       "subdir": "skills/dart-best-practices",
       "version": "093f03a",
@@ -63,7 +63,7 @@
     "dart-modern-features": {
       "source": "https://github.com/kevmoo/dash_skills.git/skills/dart-modern-features",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:38.590335+08:00",
+      "installed_at": "2026-06-12T14:00:32.431124+08:00",
       "repo_url": "https://github.com/kevmoo/dash_skills.git",
       "subdir": "skills/dart-modern-features",
       "version": "093f03a",
@@ -73,9 +73,9 @@
       }
     },
     "darwin-skill": {
-      "source": "github.com/alchaincyf/darwin-skill",
+      "source": "https://github.com/alchaincyf/darwin-skill.git",
       "type": "github",
-      "installed_at": "2026-06-11T19:35:53.390176+08:00",
+      "installed_at": "2026-06-12T13:54:00.402897+08:00",
       "repo_url": "https://github.com/alchaincyf/darwin-skill.git",
       "version": "12684eb",
       "file_hashes": {
@@ -120,7 +120,7 @@
     "deno-expert": {
       "source": "https://github.com/denoland/skills.git/skills/deno-expert",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:42.216467+08:00",
+      "installed_at": "2026-06-12T14:00:43.94979+08:00",
       "repo_url": "https://github.com/denoland/skills.git",
       "subdir": "skills/deno-expert",
       "version": "1a4267f",
@@ -132,7 +132,7 @@
     "deno-frontend": {
       "source": "https://github.com/denoland/skills.git/skills/deno-frontend",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:42.266867+08:00",
+      "installed_at": "2026-06-12T14:00:43.996653+08:00",
       "repo_url": "https://github.com/denoland/skills.git",
       "subdir": "skills/deno-frontend",
       "version": "1a4267f",
@@ -163,7 +163,7 @@
     "find-skills": {
       "source": "https://github.com/vercel-labs/skills.git/skills/find-skills",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:08.450628+08:00",
+      "installed_at": "2026-06-12T14:00:47.413498+08:00",
       "repo_url": "https://github.com/vercel-labs/skills.git",
       "subdir": "skills/find-skills",
       "version": "be0dd25",
@@ -175,7 +175,7 @@
     "flame-game-dev": {
       "source": "https://github.com/miles990/claude-software-skills.git/domain-applications/game-development/flame",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:09.999008+08:00",
+      "installed_at": "2026-06-12T14:00:48.909686+08:00",
       "repo_url": "https://github.com/miles990/claude-software-skills.git",
       "subdir": "domain-applications/game-development/flame",
       "version": "73632f2",
@@ -199,7 +199,7 @@
     "frontend-design": {
       "source": "https://github.com/anthropics/skills.git/skills/frontend-design",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:47.618342+08:00",
+      "installed_at": "2026-06-12T14:00:36.961229+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/frontend-design",
       "version": "5754626",
@@ -210,9 +210,9 @@
       }
     },
     "huashu-design": {
-      "source": "github.com/alchaincyf/huashu-design",
+      "source": "https://github.com/alchaincyf/huashu-design.git",
       "type": "github",
-      "installed_at": "2026-06-11T19:36:06.342988+08:00",
+      "installed_at": "2026-06-12T13:54:16.006339+08:00",
       "repo_url": "https://github.com/alchaincyf/huashu-design.git",
       "version": "55ff7cc",
       "file_hashes": {
@@ -396,7 +396,7 @@
     "pdf": {
       "source": "https://github.com/anthropics/skills.git/skills/pdf",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:47.725385+08:00",
+      "installed_at": "2026-06-12T14:00:37.033094+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/pdf",
       "version": "5754626",
@@ -419,7 +419,7 @@
     "playwriter": {
       "source": "https://github.com/remorses/playwriter.git/skills/playwriter",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:46:03.305479+08:00",
+      "installed_at": "2026-06-12T14:00:39.985448+08:00",
       "repo_url": "https://github.com/remorses/playwriter.git",
       "subdir": "skills/playwriter",
       "version": "9d837c0",
@@ -431,7 +431,7 @@
     "react-best-practices": {
       "source": "https://github.com/vercel-labs/agent-skills.git/skills/react-best-practices",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:41.711576+08:00",
+      "installed_at": "2026-06-12T14:00:09.234121+08:00",
       "repo_url": "https://github.com/vercel-labs/agent-skills.git",
       "subdir": "skills/react-best-practices",
       "version": "f8a72b9",
@@ -518,7 +518,7 @@
     "skill-creator": {
       "source": "https://github.com/anthropics/skills.git/skills/skill-creator",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:47.930248+08:00",
+      "installed_at": "2026-06-12T14:00:37.173739+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/skill-creator",
       "version": "5754626",
@@ -547,7 +547,7 @@
     "skillshare": {
       "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:46:16.090993+08:00",
+      "installed_at": "2026-06-12T14:00:20.509274+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
       "version": "3ad54ab",
@@ -571,10 +571,10 @@
     "taste-skill": {
       "source": "https://github.com/Leonxlnx/taste-skill.git/skills/taste-skill",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:58.198244+08:00",
+      "installed_at": "2026-06-12T14:00:42.116489+08:00",
       "repo_url": "https://github.com/Leonxlnx/taste-skill.git",
       "subdir": "skills/taste-skill",
-      "version": "1a6dc0a",
+      "version": "5436c59",
       "tree_hash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
       "file_hashes": {
         "SKILL.md": "sha256:aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
@@ -583,7 +583,7 @@
     "web-design-guidelines": {
       "source": "https://github.com/vercel-labs/agent-skills.git/skills/web-design-guidelines",
       "type": "github-subdir",
-      "installed_at": "2026-06-11T19:45:41.746189+08:00",
+      "installed_at": "2026-06-12T14:00:09.059871+08:00",
       "repo_url": "https://github.com/vercel-labs/agent-skills.git",
       "subdir": "skills/web-design-guidelines",
       "version": "f8a72b9",
