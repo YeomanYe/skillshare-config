@@ -1,6 +1,15 @@
 _webperf-official/.claude/**
 _agent-browser-official/skill-data/**
 
+_HKUDS-CLI-Anything/**/agent-harness/cli_anything/**
+_HKUDS-CLI-Anything/**/agent-harness/skills/**
+!_HKUDS-CLI-Anything/skills/
+!_HKUDS-CLI-Anything/skills/**
+
+_anthropics-skills/template/**
+
+_runkids-skillshare/.skillshare/skills/**
+
 _flutter-official/**
 !_flutter-official/skills/
 !_flutter-official/skills/flutter-add-integration-test/

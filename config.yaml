@@ -8,14 +8,14 @@ targets:
       path: ~/.claude/skills
       include:
         - _agent-browser-official__skills__agent-browser
-        - find-skills
-        - skill-creator
-        - pdf
-        - playwriter
-        - deno-expert
-        - deno-frontend
-        - developing-preact
-        - react-best-practices
+        - _vercel-labs-skills__skills__find-skills
+        - _anthropics-skills__skills__skill-creator
+        - _anthropics-skills__skills__pdf
+        - _remorses-playwriter__skills__playwriter
+        - _denoland-skills__skills__deno-expert
+        - _denoland-skills__skills__deno-frontend
+        - _oaustegard-claude-skills__developing-preact
+        - _vercel-labs-agent-skills__skills__react-best-practices
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans
@@ -46,21 +46,21 @@ targets:
         - _YeomanYe-skills__project-prep
         - _YeomanYe-skills__director-design
         - _YeomanYe-skills__director-architect
-        - frontend-design
-        - huashu-design
+        - _anthropics-skills__skills__frontend-design
+        - _alchaincyf-huashu-design
   witsy:
     skills:
       path: ~/.agents/skills
       include:
         - _agent-browser-official__skills__agent-browser
-        - find-skills
-        - skill-creator
-        - pdf
-        - playwriter
-        - deno-expert
-        - deno-frontend
-        - developing-preact
-        - react-best-practices
+        - _vercel-labs-skills__skills__find-skills
+        - _anthropics-skills__skills__skill-creator
+        - _anthropics-skills__skills__pdf
+        - _remorses-playwriter__skills__playwriter
+        - _denoland-skills__skills__deno-expert
+        - _denoland-skills__skills__deno-frontend
+        - _oaustegard-claude-skills__developing-preact
+        - _vercel-labs-agent-skills__skills__react-best-practices
         - _obra-superpowers__skills__brainstorming
         - _obra-superpowers__skills__dispatching-parallel-agents
         - _obra-superpowers__skills__executing-plans
