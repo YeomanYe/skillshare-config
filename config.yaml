@@ -87,6 +87,12 @@ targets:
         - _YeomanYe-skills__sync-skills
         - _YeomanYe-skills__flow-skill-dev
         - _YeomanYe-skills__flow-skill-research
+        - _YeomanYe-skills__flow-project-bootstrap
+        - _YeomanYe-skills__project-prep
+        - _YeomanYe-skills__director-design
+        - _YeomanYe-skills__director-architect
+        - _anthropics-skills__skills__frontend-design
+        - _alchaincyf-huashu-design
 ignore:
   - '**/.DS_Store'
   - '**/.git/**'
