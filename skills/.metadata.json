@@ -1,6 +1,11 @@
 {
   "version": 1,
   "entries": {
+    "_DietrichGebert-ponytail": {
+      "source": "https://github.com/DietrichGebert/ponytail.git",
+      "tracked": true,
+      "branch": "main"
+    },
     "_HKUDS-CLI-Anything": {
       "source": "https://github.com/HKUDS/CLI-Anything.git",
       "tracked": true,
@@ -8,6 +13,11 @@
     },
     "_Leonxlnx-taste-skill": {
       "source": "https://github.com/Leonxlnx/taste-skill.git",
+      "tracked": true,
+      "branch": "main"
+    },
+    "_VMeste-App-vm-flutter-app": {
+      "source": "https://github.com/VMeste-App/vm-flutter-app.git",
       "tracked": true,
       "branch": "main"
     },

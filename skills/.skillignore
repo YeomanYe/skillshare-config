@@ -10,6 +10,8 @@ _anthropics-skills/template/**
 
 _runkids-skillshare/.skillshare/skills/**
 
+_DietrichGebert-ponytail/.openclaw/skills/**
+
 _flutter-official/**
 !_flutter-official/skills/
 !_flutter-official/skills/flutter-add-integration-test/
