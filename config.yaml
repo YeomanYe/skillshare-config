@@ -7,20 +7,28 @@ targets:
     skills:
       path: ~/.claude/skills
       include: &shared_skill_includes
+        # 散装工具
         - _agent-browser-official__skills__agent-browser
-        - _vercel-labs-skills__skills__find-skills
-        - _anthropics-skills__skills__skill-creator
         - _anthropics-skills__skills__pdf
-        - _remorses-playwriter__skills__playwriter
-        - _denoland-skills__skills__deno-expert
-        - _denoland-skills__skills__deno-frontend
-        - _oaustegard-claude-skills__developing-preact
-        - _vercel-labs-agent-skills__skills__react-best-practices
-        - _obra-superpowers__skills__*
-        - _YeomanYe-skills__*
-        - _DietrichGebert-ponytail__skills__ponytail*
-        - _anthropics-skills__skills__frontend-design
-        - _alchaincyf-huashu-design
+        # YeomanYe 核心工作流
+        - _YeomanYe-skills__flow-dev-task
+        - _YeomanYe-skills__flow-cron
+        - _YeomanYe-skills__clean-commit
+        - _YeomanYe-skills__mem
+        - _YeomanYe-skills__exp-sum
+        - _YeomanYe-skills__microscope
+        - _YeomanYe-skills__delivery-gate
+        - _YeomanYe-skills__hat
+        - _YeomanYe-skills__director-frontend
+        - _YeomanYe-skills__director-design
+        - _YeomanYe-skills__director-architect
+        - _YeomanYe-skills__director-ops
+        # skill 开发链
+        - _YeomanYe-skills__flow-skill-dev
+        - _YeomanYe-skills__skill-behavior-test
+        - _YeomanYe-skills__skill-integration-test
+        - _YeomanYe-skills__sync-skills
+        - _YeomanYe-skills__flow-skill-research
   witsy:
     skills:
       path: ~/.agents/skills
